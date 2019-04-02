@@ -1,0 +1,34 @@
+baseURL = "https://filmclub.github.io/"
+languageCode = "en-us"
+title = "De Film Club"
+theme = "mediumish"
+summaryLength = 25
+copyright = "2019"
+#disqusShortname = "shortDisquis"
+#googleAnalytics = "UA-1XXXXXXX1-X"
+
+[params]
+logo = "/images/logo.png"
+#  description ="the clean blog!"
+#  mailchimp = "you can provide a mailchimp-link here"
+
+#[params.author]
+#  name = "Bart"
+#  thumbnail = "/images/author.png"
+#  description = "Voorzitter"
+
+[params.index]
+#  picture = "/images/author.png"
+  title = "Welkom bij de film club"
+  subtitle = ""
+  mdtext = '''\
+1. Klik op "films" voor planning\
+2. Kom naar de film\   
+'''
+  alertbar = false
+  ## Main Menu
+[[menu.main]]
+    name = "Films"
+    weight = 100
+    identifier = "films"
+    url = "/films"
