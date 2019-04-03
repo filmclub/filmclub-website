@@ -4,8 +4,8 @@ title = "De Film Club"
 theme = "mediumish"
 summaryLength = 25
 copyright = "2019"
-#disqusShortname = "shortDisquis"
-#googleAnalytics = "UA-1XXXXXXX1-X"
+disqusShortname = "filmclub-1"
+googleAnalytics = "UA-137589012-1"
 
 [params]
 logo = "/images/logo.png"
