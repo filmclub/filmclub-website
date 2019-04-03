@@ -10,4 +10,6 @@ draft: false
 
 ### Cinema Palace 02/04/2019 21:40
 
-https://cinema-palace.be/nl/film/hellhole
+<https://cinema-palace.be/nl/film/hellhole>
+
+Aanwezigen: has, mva, bdu

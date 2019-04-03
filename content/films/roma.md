@@ -10,4 +10,6 @@ draft: false
 
 ### Cinema Palace 29/03/2019 21:20
 
-https://cinema-palace.be/nl/film/roma
+<https://cinema-palace.be/nl/film/roma>
+
+Aanwezig: nam, bdu

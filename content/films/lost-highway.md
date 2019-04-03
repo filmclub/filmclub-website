@@ -10,4 +10,4 @@ draft: false
 
 ### Cinema Palace 04/04/2019 21:30
 
-https://cinema-palace.be/nl/film/lost-highway-restored
+<https://cinema-palace.be/nl/film/lost-highway-restored>

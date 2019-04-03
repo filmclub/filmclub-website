@@ -23,7 +23,8 @@ logo = "/images/logo.png"
   subtitle = ""
   mdtext = '''\
 1. Klik op "films" voor planning\
-2. Kom naar de film\   
+2. Kom naar de film\
+3. Herhaal drie keer en ontvang je lidkaart!\
 '''
   alertbar = false
   ## Main Menu
