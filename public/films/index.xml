@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Films on De Film Club</title>
+    <title>Films on filmclub</title>
     <link>https://filmclub.github.io/films/</link>
-    <description>Recent content in Films on De Film Club</description>
+    <description>Recent content in Films on filmclub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2019</copyright>
+    <copyright>filmclub 2019</copyright>
     <lastBuildDate>Tue, 02 Apr 2019 13:14:44 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.github.io/films/index.xml" rel="self" type="application/rss+xml" />

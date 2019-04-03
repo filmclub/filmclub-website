@@ -1,9 +1,9 @@
 baseURL = "https://filmclub.github.io/"
 languageCode = "en-us"
-title = "De Film Club"
+title = "filmclub"
 theme = "mediumish"
 summaryLength = 25
-copyright = "2019"
+copyright = "filmclub 2019"
 disqusShortname = "filmclub-1"
 googleAnalytics = "UA-137589012-1"
 
@@ -19,7 +19,7 @@ logo = "/images/logo.png"
 
 [params.index]
 #  picture = "/images/author.png"
-  title = "Welkom bij de film club"
+  title = "Welkom bij filmclub"
   subtitle = ""
   mdtext = '''\
 1. Klik op "films" voor planning\
