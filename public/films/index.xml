@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>filmclub 2019</copyright>
-    <lastBuildDate>Tue, 02 Apr 2019 13:14:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 13:14:44 +0200</lastBuildDate>
     
 	<atom:link href="https://filmclub.github.io/films/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,20 +15,40 @@
     <item>
       <title>#? Escape From New York</title>
       <link>https://filmclub.github.io/films/escape-from-new-york/</link>
-      <pubDate>Tue, 02 Apr 2019 13:14:44 +0200</pubDate>
+      <pubDate>Tue, 28 May 2019 13:14:44 +0200</pubDate>
       
       <guid>https://filmclub.github.io/films/escape-from-new-york/</guid>
       <description>Flagey studio 5 28/05/2019 21:30 https://www.flagey.be/en/activity/5980-escape-from-new-york-john-carpenter</description>
     </item>
     
     <item>
-      <title>#4 Us</title>
+      <title>#6 Us</title>
       <link>https://filmclub.github.io/films/us/</link>
-      <pubDate>Tue, 02 Apr 2019 13:13:20 +0200</pubDate>
+      <pubDate>Tue, 23 Apr 2019 13:13:20 +0200</pubDate>
       
       <guid>https://filmclub.github.io/films/us/</guid>
-      <description>Gepland voor week van 15/04/2019
+      <description>Gepland voor week van 22/04/2019
 https://www.ugc.be/film.html?id=6950#</description>
+    </item>
+    
+    <item>
+      <title>#5 I&#39;m Back</title>
+      <link>https://filmclub.github.io/films/im-back/</link>
+      <pubDate>Sat, 20 Apr 2019 10:24:01 +0200</pubDate>
+      
+      <guid>https://filmclub.github.io/films/im-back/</guid>
+      <description>BIFFF Cine 2 - 20/04/19 - 21:30
+https://www.bifff.net/program/im-back/</description>
+    </item>
+    
+    <item>
+      <title>#4 Bodies at Rest</title>
+      <link>https://filmclub.github.io/films/bodies-at-rest/</link>
+      <pubDate>Wed, 17 Apr 2019 10:24:46 +0200</pubDate>
+      
+      <guid>https://filmclub.github.io/films/bodies-at-rest/</guid>
+      <description>BIFFF Cine 1 - 17/04/19 - 20:30
+https://www.bifff.net/program/bodies-at-rest/</description>
     </item>
     
     <item>
