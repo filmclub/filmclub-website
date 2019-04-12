@@ -10,8 +10,8 @@ googleAnalytics = "UA-137589012-1"
 [params]
 logo = "/images/logo.png"
 #  description ="the clean blog!"
-#  mailchimp = "you can provide a mailchimp-link here"
-
+mailchimp = "https://dupon.us19.list-manage.com/subscribe/post?u=328bef6db0889927f790ae755&amp;id=57e185d01c"
+mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
 #[params.author]
 #  name = "Bart"
 #  thumbnail = "/images/author.png"
@@ -26,8 +26,9 @@ logo = "/images/logo.png"
 2. Kom naar de film\
 3. Herhaal drie keer en ontvang je lidkaart!\
 '''
-  alertbar = false
-  ## Main Menu
+  alertbar = true
+  
+## Main Menu
 [[menu.main]]
     name = "Films"
     weight = 100
