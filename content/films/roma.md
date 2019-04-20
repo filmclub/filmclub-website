@@ -8,7 +8,7 @@ comments: true
 draft: false
 ---
 
-### Cinema Palace 29/03/2019 21:20
+### Cinema Palace - 29/03/2019 - 21:20
 
 <https://cinema-palace.be/nl/film/roma>
 
