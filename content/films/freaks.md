@@ -11,3 +11,5 @@ draft: false
 BIFFF Cine 1 - 20/04/19 - 20:30
 
 <https://www.bifff.net/program/freaks/>
+
+Aanwezig: nam, has, bdu
