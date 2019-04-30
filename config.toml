@@ -34,3 +34,9 @@ mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
     weight = 100
     identifier = "films"
     url = "/films"
+[[menu.main]]
+    name = "Blog"
+    weight = 200
+    identifier = "blog"
+    url = "/blog"
+    

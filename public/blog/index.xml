@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on filmclub</title>
+    <link>https://filmclub.github.io/blog/</link>
+    <description>Recent content in Blogs on filmclub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>filmclub 2019</copyright>
+    <lastBuildDate>Mon, 29 Apr 2019 20:17:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://filmclub.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Een Maand Filmclub!</title>
+      <link>https://filmclub.github.io/blog/een-maand/</link>
+      <pubDate>Mon, 29 Apr 2019 20:17:59 +0200</pubDate>
+      
+      <guid>https://filmclub.github.io/blog/een-maand/</guid>
+      <description>6 films, 2 leden, 3 kandidaat leden. De filmclub heeft een vliegende start genomen!
+En voor uw comfort: voortaan trailers bij de geplande films!
+Iedereen welkom volgende week: Apocalypse Now</description>
+    </item>
+    
+  </channel>
+</rss>
