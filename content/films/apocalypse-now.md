@@ -12,4 +12,6 @@ draft: false
 
 <https://www.ritcs.be/nl/agenda/apocalypse-now-1979>
 
+Aanwezigen: nam, has
+
 {{< youtube FTjG-Aux_yQ >}}
