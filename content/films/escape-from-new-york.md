@@ -12,4 +12,6 @@ draft: false
 
 <https://www.flagey.be/en/activity/5980-escape-from-new-york-john-carpenter>
 
+Aanwezigen: mva, bdu
+
 {{< youtube PYYZFcvQfRg >}}
