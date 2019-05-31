@@ -12,4 +12,6 @@ draft: false
 
 <https://www.galeries.be/dolor-y-gloria/>
 
+Aanwezigen: jan, kva, has, bdu
+
 {{< youtube rQaycqyjLFw >}}
