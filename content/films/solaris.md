@@ -12,4 +12,6 @@ draft: false
 
 <https://www.flagey.be/nl/activity/6256-solaris-andrej-tarkovski>
 
+Aanwezig: mva, bdu
+
 {{< vimeo 89159669 >}}
