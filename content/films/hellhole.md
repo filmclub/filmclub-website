@@ -8,7 +8,10 @@ comments: true
 draft: false
 ---
 
-### Cinema Palace - 02/04/2019 - 21:40
+##### 02/04/2019 - 21:40
+
+Cinema Palace
+<!--more-->
 
 <https://cinema-palace.be/nl/film/hellhole>
 

@@ -8,8 +8,10 @@ comments: true
 draft: false
 ---
 
-### Cinema Aventure - 29/04/2019 - 21:30
+##### 29/04/2019 - 21:30
 
+Cinema Aventure
+<!--more-->
 <https://cinema-aventure.be/index.php?mact=Agenda,cntnt01,DetailEvent,0&cntnt01id_event=2651>
 
 Aanwezig: kve, has, mva, bdu

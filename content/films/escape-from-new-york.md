@@ -8,7 +8,10 @@ comments: true
 draft: false
 ---
 
-### Flagey studio 5 - 28/05/2019 - 21:30
+##### 28/05/2019 - 21:30
+
+Flagey studio 5
+<!--more-->
 
 <https://www.flagey.be/en/activity/5980-escape-from-new-york-john-carpenter>
 

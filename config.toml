@@ -22,9 +22,15 @@ mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
   title = "Welkom bij filmclub"
   subtitle = ""
   mdtext = '''\
-1. Klik op "films" voor planning\
+1. Klik op <A href="/films">films</a> voor planning\
 2. Kom naar de film\
 3. Herhaal drie keer en ontvang je lidkaart!\
+\
+Leden:\
+#001 bdu (04/04/2019)\
+#002 has (29/04/2019)\
+#003 nam (07/05/2019)\
+#004 mva (28/05/2019)\
 '''
   alertbar = true
   

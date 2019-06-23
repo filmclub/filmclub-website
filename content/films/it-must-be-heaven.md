@@ -8,10 +8,14 @@ comments: true
 draft: false
 ---
 
-### BRIFF @ UGC De Brouckère - 20/06/2019 - 20:00
+##### 20/06/2019 - 20:00
+
+BRIFF @ UGC De Brouckère
 
 ES ontvlucht Palestina op zoek naar een nieuwe thuis, tot hij beseft dat zijn
-geboorteland hem als een schaduw volgt. De belofte van een nieuw leven slaat
+geboorteland hem als een schaduw volgt.
+<!--more-->
+ De belofte van een nieuw leven slaat
 snel om in een absurde komedie. Overal waar hij komt, van Parijs tot New York,
 er is altijd wel iets dat hem aan zijn geboorteland doet herinneren.
 Een burlesk verhaal waarin thema’s als identiteit, nationaliteit en

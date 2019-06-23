@@ -8,8 +8,10 @@ comments: true
 draft: false
 ---
 
-### Cinema Palace - 04/04/2019 - 21:30
+##### 04/04/2019 - 21:30
 
+Cinema Palace
+<!--more-->
 <https://cinema-palace.be/nl/film/lost-highway-restored>
 
 Aanwezig: bdu

@@ -8,8 +8,10 @@ comments: true
 draft: false
 ---
 
-### Cinema Palace - 29/03/2019 - 21:20
+##### 29/03/2019 - 21:20
 
+Cinema Palace
+<!--more-->
 <https://cinema-palace.be/nl/film/roma>
 
 Aanwezig: nam, bdu

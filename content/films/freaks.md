@@ -8,7 +8,10 @@ comments: true
 draft: false
 ---
 
-BIFFF Cine 1 - 20/04/19 - 20:30
+##### 20/04/19 - 20:30
+
+BIFFF Cine 1
+<!--more-->
 
 <https://www.bifff.net/program/freaks/>
 

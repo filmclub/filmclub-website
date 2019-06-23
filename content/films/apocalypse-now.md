@@ -8,8 +8,10 @@ comments: true
 draft: false
 ---
 
-### RITCS Cinema - 07/05/2019 - 19:30
+##### 07/05/2019 - 19:30
 
+RITCS Cinema
+<!--more-->
 <https://www.ritcs.be/nl/agenda/apocalypse-now-1979>
 
 Aanwezigen: nam, has

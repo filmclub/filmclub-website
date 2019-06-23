@@ -8,10 +8,13 @@ comments: true
 draft: false
 ---
 
-### Kinepolis
+##### ??/07/2019
+
+Kinepolis
 
 From director Todd Douglas Miller (Dinosaur 13) comes a cinematic event
 fifty years in the making.
+<!--more-->
 Crafted from a newly discovered trove of 65mm
 footage, and more than 11,000 hours of uncatalogued audio recordings,
 Apollo 11 takes us straight to the hear t of NASA’s most celebrated
