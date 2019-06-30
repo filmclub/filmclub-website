@@ -26,24 +26,24 @@ steps:
    wget -c https://github.com/gohugoio/hugo/releases/download/v$(hugo.version)/hugo_$(hugo.version)_Linux-64bit.deb   
   displayName: "Download HUGO"
 
-- script: 'sudo dpkg -i hugo _ $ (hugo.version) _Linux-64bit.deb'
+- script: 'sudo dpkg -i hugo_$(hugo.version)_Linux-64bit.deb'
   displayName: "Install HUGO"
 
 - script: |
-   cd $ (blog.path)
+   cd $(blog.path)
    hugo --log -v
   displayName: 'Generate Blog'
 
 - task: CopyFiles@2
   displayName: 'Copy Blog'
   inputs:
-    SourceFolder: '$ (blog.path) / public'
+    SourceFolder: '$(blog.path)/public'
     Contents: "**"
-    TargetFolder: '$ (Build.ArtifactStagingDirectory)'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
   displayName: Publish Blog
   inputs:
-    PathtoPublish: '$ (Build.ArtifactStagingDirectory)'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: Drop
     publishLocation: 'Container'
