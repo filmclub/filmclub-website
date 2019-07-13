@@ -22,6 +22,8 @@ Een burlesk verhaal waarin thema’s als identiteit, nationaliteit en
 verbondenheid worden verkend en waarin Elia Suleiman een fundamentele
 vraag stelt: waar voelt men zich 'thuis'?
 
+Aanwezig: nam, bdu
+
 [BRIFF Soirée d'ouverture](https://briff.be/soiree-douverture/)
 
 [Cannes 2019](https://www.festival-cannes.com/en/festival/films/it-must-be-heaven)

@@ -28,4 +28,6 @@ and hours in 1969 when humankind took a giant leap into the future.
 
 <https://www.apollo11movie.com/>
 
+Aanwezig: has, sto, bdu
+
 {{< youtube 3Co8Z8BQgWc >}}
