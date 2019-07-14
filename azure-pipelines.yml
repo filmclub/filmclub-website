@@ -19,7 +19,7 @@ steps:
 
 - script: |
    cd $(blog.path)
-   hugo --log --verboseLog
+   hugo --log --verboseLog --config config.toml
   displayName: 'Generate Website'
 
 - task: CopyFiles@2
