@@ -10,6 +10,10 @@ variables:
 
 steps:
 
+- checkout: self
+  displayName: 'Checkout repository including submodules'
+  submodules: true  # true so Hugo theme submodule is checked out
+
 - script: |
    wget -c https://github.com/gohugoio/hugo/releases/download/v$(hugo.version)/hugo_$(hugo.version)_Linux-64bit.deb   
   displayName: "Download HUGO"
