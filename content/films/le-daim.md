@@ -10,7 +10,7 @@ draft: false
 
 ##### 22/07/2019 - 21:30
 
-Cinema Aventure?
+Cinema Aventure
 
 Georges, 44 ans, et son blouson, 100% daim, ont un projet.
 <!--more-->
