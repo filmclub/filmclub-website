@@ -16,4 +16,6 @@ Georges, 44 ans, et son blouson, 100% daim, ont un projet.
 <!--more-->
 <https://cinema-aventure.be/index.php?mact=Agenda,cntnt01,DetailEvent,0&cntnt01id_event=2692>
 
+Aanwezig: has, bdu
+
 {{< youtube 9SqNWh5RnXY >}}
