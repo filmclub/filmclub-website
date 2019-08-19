@@ -22,4 +22,6 @@ verweven zijn met dat van het huidige China.
 
 <https://www.galeries.be/so-long-my-son/?la=nl>
 
+Aanwezig: has, bdu
+
 {{< youtube GbJi3YstBzE >}}
