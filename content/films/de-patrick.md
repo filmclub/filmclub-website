@@ -8,12 +8,12 @@ comments: true
 draft: false
 ---
 
-##### ??/09/2019
+##### 12/09/2019
 
 tbd
 
 Patrick woont samen met zijn ouders op een naturistencamping. Wanneer zijn vader
-sterft, krijgt hij de leiding over de camping. 
+sterft, krijgt hij de leiding over de camping.
 <!--more-->
 Maar Patrick heeft andere
 zorgen: hij is al een tijdje zijn favoriete hamer kwijt. De vaste bewoners
