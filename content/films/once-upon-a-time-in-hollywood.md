@@ -16,5 +16,6 @@ A faded television actor and his stunt double strive to
 achieve fame and success in the film industry during the
 final years of Hollywood's Golden Age in 1969 Los Angeles.
 <!--more-->
+Aanwezig: ado, kve, has, bdu
 
 {{< youtube ELeMaP8EPAA >}}
