@@ -13,4 +13,3 @@ draft: false
 Cinema Aventure
 <!--more-->
 <https://cinema-aventure.be/index.php?mact=Agenda,cntnt01,DetailEvent,0&cntnt01id_event=2651>
-

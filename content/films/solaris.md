@@ -12,10 +12,8 @@ draft: false
 
 Flagey studio 5
 
-Een psycholoog wordt naar een ruimtestation gestuurd, dat in een baan rond 
+Een psycholoog wordt naar een ruimtestation gestuurd, dat in een baan rond
 een verre planeet cirkelt, om te ontdekken waarom de bemanning gek wordt…
 <!--more-->
 
 <https://www.flagey.be/nl/activity/6256-solaris-andrej-tarkovski>
-
-Aanwezig: mva, bdu
