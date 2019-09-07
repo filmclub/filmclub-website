@@ -3,7 +3,8 @@ title: "#18 Ad Astra"
 date: 2019-09-25T23:05:54+02:00
 publishdate: 2019-09-05T23:05:54+02:00
 image: "posters/ad-astra.jpg"
-tags: []
+leden: []
+trailer: P6AaSMfXHbA
 comments: true
 draft: false
 ---
@@ -19,5 +20,3 @@ afreisde om buitenaardse intelligentie op te sporen.
 Roy besluit nu de
 Melkweg door te reizen, op zoek naar zijn vader en om antwoord te krijgen
 op de vraag waarom hij niets van zich heeft laten horen.
-
-{{< youtube P6AaSMfXHbA >}}
