@@ -3,7 +3,8 @@ title: "#12 Apollo 11"
 date: 2019-07-08T20:53:24+02:00
 publishdate: 2019-06-03T20:53:24+02:00
 image: "/posters/apollo-11.jpg"
-tags: []
+leden: ["nam", "bdu", "sto"]
+trailer: 3Co8Z8BQgWc
 comments: true
 draft: false
 ---
@@ -27,7 +28,3 @@ and hours in 1969 when humankind took a giant leap into the future.
 <https://kinepolis.be/nl/events/docu-apollo-11>
 
 <https://www.apollo11movie.com/>
-
-Aanwezig: has, sto, bdu
-
-{{< youtube 3Co8Z8BQgWc >}}

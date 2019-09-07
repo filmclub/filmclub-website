@@ -3,7 +3,8 @@ title: "#17 Parasite"
 date: 2019-09-19T21:00:02+02:00
 publishdate: 2019-09-02T21:00:02+02:00
 image: "posters/parasite.jpeg"
-tags: []
+leden: []
+trailer: SEUXfv87Wpk
 comments: true
 draft: false
 ---
@@ -20,7 +21,5 @@ rijke familie Park, kan vervangen.
 Wanneer Ki-woo in de wereld van de rijke familie belandt,
 maakt hij van zijn nieuwe positie misbruik om ook zijn gezinsleden
 aan een baan te helpen. Hun nieuw bestaan loopt echter niet zoals gepland.
-
-{{< youtube SEUXfv87Wpk >}}
 
 <https://cinema-palace.be/nl/film/parasite>

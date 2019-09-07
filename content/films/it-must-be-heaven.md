@@ -3,7 +3,8 @@ title: "#11 It Must Be Heaven"
 date: 2019-06-20T20:00:27+02:00
 publishdate: 2019-06-12T19:16:27+02:00
 image: "posters/it-must-be-heaven.png"
-tags: []
+leden: ["nam", "bdu"]
+trailer: RYSKzDiUGdk
 comments: true
 draft: false
 ---
@@ -29,5 +30,3 @@ Aanwezig: nam, bdu
 [Cannes 2019](https://www.festival-cannes.com/en/festival/films/it-must-be-heaven)
 
 [UGC link](https://www.ugc.be/film.html?id=7074&cinemaId=2)
-
-{{< youtube RYSKzDiUGdk >}}

@@ -2,8 +2,9 @@
 title: "#4 Bodies at Rest"
 date: 2019-04-17T10:24:46+02:00
 publishdate: 2019-04-02T13:14:44+02:00
-image: ""
-tags: []
+image: "posters/bodies-at-rest.jpg"
+leden: ["bdu"]
+trailer: F8U_XEQcDIc
 comments: true
 draft: false
 ---
@@ -14,5 +15,3 @@ BIFFF Cine 1
 <!--more-->
 
 <https://www.bifff.net/program/bodies-at-rest/>
-
-Aanwezig: bdu

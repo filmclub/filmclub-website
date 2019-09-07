@@ -2,8 +2,9 @@
 title: "#8 Escape From New York"
 date: 2019-05-28T13:14:44+02:00
 publishdate: 2019-04-02T13:14:44+02:00
-image: ""
-tags: []
+image: "posters/escape-from-new-york.jpg"
+leden: ["mva", "bdu"]
+trailer: PYYZFcvQfRg
 comments: true
 draft: false
 ---
@@ -14,7 +15,3 @@ Flagey studio 5
 <!--more-->
 
 <https://www.flagey.be/en/activity/5980-escape-from-new-york-john-carpenter>
-
-Aanwezigen: mva, bdu
-
-{{< youtube PYYZFcvQfRg >}}

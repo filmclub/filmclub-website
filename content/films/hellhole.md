@@ -2,8 +2,9 @@
 title: "#2 Hellhole"
 date: 2019-04-02T13:00:55+02:00
 publishdate: 2019-04-02T13:00:55+02:00
-image: ""
-tags: []
+image: "posters/hellhole.jpg"
+leden: ["has", "mva", "bdu"]
+trailer: 
 comments: true
 draft: false
 ---
@@ -17,5 +18,3 @@ in Brussel in 2016 te boven proberen te komen.
 <!--more-->
 
 <https://cinema-palace.be/nl/film/hellhole>
-
-Aanwezigen: has, mva, bdu

@@ -2,8 +2,9 @@
 title: "#5 Freaks"
 date: 2019-04-20T10:24:01+02:00
 publishdate: 2019-04-02T13:14:44+02:00
-image: ""
-tags: []
+image: "posters/freaks.jpg"
+leden: ["nam", "has", "bdu"]
+trailer: iqaVJbXHD-I
 comments: true
 draft: false
 ---
@@ -14,5 +15,3 @@ BIFFF Cine 1
 <!--more-->
 
 <https://www.bifff.net/program/freaks/>
-
-Aanwezig: nam, has, bdu

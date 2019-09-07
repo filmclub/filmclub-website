@@ -46,24 +46,31 @@
                         <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
-                    
+
                     <!-- Post Content -->
                     <div class="article-post">
                         {{ .Content}}
                     </div>
                     
-                    <!-- Post Categories -->
-                    <div class="after-post-tags">
-                        <ul class="tags">
-                        {{ range .Params.tags }}
-                        <li>
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{.}}</a>
-                        </li>
-                        {{ end }}
-                        </ul>
+                    <!-- Aanwezig -->
+                    <div class="article-post">
+                        Aanwezig:
+                     {{ with .Params.leden }}
+                       {{ range . }}
+                       <a href="{{ "leden/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                    {{ end }}
+                    </div> 
+                    <br>
+                <!-- End Aanwezig -->
+
+                    <!-- Trailer -->
+                    {{with .Params.trailer}}
+                    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+                        <iframe src="https://www.youtube.com/embed/{{.}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
                     </div>
-                    <!-- End Categories -->
-                    
+                    {{end}}
+                    <br>
                     <!-- Next and PrevPage inside current section -->
                     <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                     {{with .NextInSection}}

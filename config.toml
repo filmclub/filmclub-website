@@ -7,6 +7,9 @@ copyright = "filmclub 2019"
 disqusShortname = "filmclub-1"
 googleAnalytics = "UA-137589012-1"
 
+[taxonomies]
+leden = "leden"
+
 [params]
 logo = "/images/logo.png"
 #  description ="the clean blog!"

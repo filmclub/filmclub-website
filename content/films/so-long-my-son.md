@@ -3,7 +3,8 @@ title: "#14 So Long My Son"
 date: 2019-07-25T20:30:42+02:00
 publishdate: 2019-07-25T20:30:42+02:00
 image: "posters/so-long-my-son.jpg"
-tags: []
+leden: ["has", "bdu"]
+trailer: GbJi3YstBzE
 comments: true
 draft: false
 ---
@@ -21,7 +22,3 @@ Gedurende 40 jaar, terwijl ze zichzelf proberen te herbouwen, zal hun lot
 verweven zijn met dat van het huidige China.
 
 <https://www.galeries.be/so-long-my-son/?la=nl>
-
-Aanwezig: has, bdu
-
-{{< youtube GbJi3YstBzE >}}
