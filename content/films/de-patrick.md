@@ -9,9 +9,9 @@ comments: true
 draft: false
 ---
 
-##### 12/09/2019
+##### 12/09/2019 19:15
 
-tbd
+Cinema Palace
 
 Patrick woont samen met zijn ouders op een naturistencamping. Wanneer zijn vader
 sterft, krijgt hij de leiding over de camping.
