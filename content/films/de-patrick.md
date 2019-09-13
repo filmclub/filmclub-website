@@ -3,7 +3,7 @@ title: "#16 De Patrick"
 date: 2019-08-28T21:45:45+02:00
 publishdate: 2019-07-13T21:45:45+02:00
 image: "posters/de-patrick.jpg"
-leden: []
+leden: ["has", "bdu"]
 trailer: AEqjnf_KxZs
 comments: true
 draft: false
