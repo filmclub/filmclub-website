@@ -1,5 +1,6 @@
 ---
-title: "#2 Hellhole"
+number: 2
+title: "Hellhole"
 date: 2019-04-02T13:00:55+02:00
 publishdate: 2019-04-02T13:00:55+02:00
 image: "posters/hellhole.jpg"

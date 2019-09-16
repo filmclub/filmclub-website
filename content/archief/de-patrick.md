@@ -1,6 +1,8 @@
 ---
-title: "#16 De Patrick"
-date: 2019-08-28T21:45:45+02:00
+number: 16
+title: "De Patrick"
+cinema: "Cinema Palace"
+date: 2019-09-12T19:15:00+02:00
 publishdate: 2019-07-13T21:45:45+02:00
 image: "posters/de-patrick.jpg"
 leden: []
@@ -8,10 +10,7 @@ trailer: AEqjnf_KxZs
 comments: true
 draft: false
 ---
-
-##### 12/09/2019
-
-tbd
+##### 12/09/2019 - 20:30
 
 Patrick woont samen met zijn ouders op een naturistencamping. Wanneer zijn vader
 sterft, krijgt hij de leiding over de camping.

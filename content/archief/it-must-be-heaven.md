@@ -1,5 +1,6 @@
 ---
-title: "#11 It Must Be Heaven"
+number: 11
+title: "It Must Be Heaven"
 date: 2019-06-20T20:00:27+02:00
 publishdate: 2019-06-12T19:16:27+02:00
 image: "posters/it-must-be-heaven.png"

@@ -1,15 +1,17 @@
 ---
-title: "#17 Parasite"
-date: 2019-09-19T21:00:02+02:00
+number: 17
+title: "Parasite"
+date: 2019-09-19T21:35:02+02:00
 publishdate: 2019-09-02T21:00:02+02:00
 image: "posters/parasite.jpeg"
 leden: []
 trailer: SEUXfv87Wpk
 comments: true
 draft: false
+archief: "false"
 ---
 
-##### 19/09/2019
+##### 19/09/2019 21:35
 
 Cinema Palace
 

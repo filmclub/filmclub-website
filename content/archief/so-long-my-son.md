@@ -1,5 +1,6 @@
 ---
-title: "#14 So Long My Son"
+number: 14
+title: "So Long My Son"
 date: 2019-07-25T20:30:42+02:00
 publishdate: 2019-07-25T20:30:42+02:00
 image: "posters/so-long-my-son.jpg"

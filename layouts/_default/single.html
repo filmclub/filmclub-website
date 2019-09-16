@@ -38,7 +38,9 @@
                         {{end}}
                         {{end}}                        
                         <!-- Post Title -->
-                        <h1 class="posttitle">{{ .Title }}</h1> 
+                        <h1 class="posttitle">
+                            #{{ .Params.number }} {{ .Title }}
+                        </h1> 
                     </div>
 
                     <!-- Post Featured Image -->
@@ -46,9 +48,10 @@
                         <img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
                     {{end}}
                     <!-- End Featured Image -->
-
                     <!-- Post Content -->
                     <div class="article-post">
+                        <h3>{{ .Date.Format "02-01-2006 15:04" }}</h3>
+                        {{ .Params.cinema }} <br><br>
                         {{ .Content}}
                     </div>
                     

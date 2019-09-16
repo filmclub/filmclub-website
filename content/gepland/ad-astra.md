@@ -1,5 +1,6 @@
 ---
-title: "#18 Ad Astra"
+number: 18
+title: "Ad Astra"
 date: 2019-09-25T23:05:54+02:00
 publishdate: 2019-09-05T23:05:54+02:00
 image: "posters/ad-astra.jpg"
@@ -7,6 +8,7 @@ leden: []
 trailer: P6AaSMfXHbA
 comments: true
 draft: false
+archief: "false"
 ---
 
 ##### ##/09/2019

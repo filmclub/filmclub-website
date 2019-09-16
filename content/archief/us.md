@@ -1,5 +1,6 @@
 ---
-title: "#6 Us"
+number: 6
+title: "Us"
 date: 2019-04-29T13:13:20+02:00
 publishdate: 2019-04-02T13:13:20+02:00
 image: "posters/us.png"

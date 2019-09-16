@@ -12,7 +12,7 @@ leden = "leden"
 
 [params]
 logo = "/images/logo.png"
-#  description ="the clean blog!"
+#  description ="De filmclub is een film club!"
 mailchimp = "https://dupon.us19.list-manage.com/subscribe/post?u=328bef6db0889927f790ae755&amp;id=57e185d01c"
 mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
 #[params.author]
@@ -25,7 +25,7 @@ mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
   title = "Welkom bij filmclub"
   subtitle = ""
   mdtext = '''\
-1. Klik op <A href="/films">films</a> voor planning\
+1. Klik op <A href="/gepland">geplande films</a> voor planning\
 2. Kom naar de film\
 3. Herhaal drie keer en ontvang je lidkaart!\
 \
@@ -39,10 +39,15 @@ Leden:\
   
 ## Main Menu
 [[menu.main]]
-    name = "Films"
+    name = "Gepland"
     weight = 100
-    identifier = "films"
-    url = "/films"
+    identifier = "gepland"
+    url = "/gepland"
+[[menu.main]]
+    name = "Archief"
+    weight = 150
+    identifier = "archief"
+    url = "/archief"
 [[menu.main]]
     name = "Blog"
     weight = 200

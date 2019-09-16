@@ -1,11 +1,13 @@
 ---
-title: "#12 Apollo 11"
+number: 12
+title: "Apollo 11"
 date: 2019-07-08T20:53:24+02:00
 publishdate: 2019-06-03T20:53:24+02:00
 image: "/posters/apollo-11.jpg"
 leden: ["nam", "bdu", "sto"]
 trailer: 3Co8Z8BQgWc
 comments: true
+archief: "true"
 draft: false
 ---
 
