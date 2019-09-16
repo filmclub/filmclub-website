@@ -4,7 +4,7 @@ title: "Apollo 11"
 date: 2019-07-08T20:53:24+02:00
 publishdate: 2019-06-03T20:53:24+02:00
 image: "/posters/apollo-11.jpg"
-leden: ["nam", "bdu", "sto"]
+leden: ["has", "bdu", "sto"]
 trailer: 3Co8Z8BQgWc
 comments: true
 archief: "true"
