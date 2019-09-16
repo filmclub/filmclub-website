@@ -9,7 +9,7 @@ comments: true
 draft: false
 ---
 
-##### 19/09/2019
+##### 19/09/2019 21:35
 
 Cinema Palace
 
