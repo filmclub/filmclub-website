@@ -30,10 +30,10 @@ mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
 3. Herhaal drie keer en ontvang je lidkaart!\
 \
 Leden:\
-#001 bdu (04/04/2019)\
-#002 has (29/04/2019)\
-#003 nam (07/05/2019)\
-#004 mva (28/05/2019)\
+#001 <A href="/leden/bdu">bdu</a> (04/04/2019)\
+#002 <A href="/leden/has">has</a> (29/04/2019)\
+#003 <A href="/leden/nam">nam</a> (07/05/2019)\
+#004 <A href="/leden/mva">mva</a> (28/05/2019)\
 '''
   alertbar = true
   
