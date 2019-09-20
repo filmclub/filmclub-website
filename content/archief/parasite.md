@@ -1,19 +1,19 @@
 ---
 number: 17
 title: "Parasite"
-date: 2019-09-19T21:35:02+02:00
+date: 2019-09-19T21:30:00+02:00
 publishdate: 2019-09-02T21:00:02+02:00
 image: "posters/parasite.jpeg"
-leden: []
+leden: ["nam", "has", "bdu"]
 trailer: SEUXfv87Wpk
 comments: true
 draft: false
 archief: "false"
 ---
 
-##### 19/09/2019 21:35
+##### 19/09/2019 21:30
 
-Cinema Palace
+Galeries
 
 Ki-taek en zijn werkloze familie verkeren in geldnood.
 Zijn kinderen besluiten op een dag om een diploma te vervalsen
