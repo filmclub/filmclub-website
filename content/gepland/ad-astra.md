@@ -11,9 +11,9 @@ draft: false
 archief: "false"
 ---
 
-##### 01/10/2019 21:10
+##### XX/10/2019 
 
-Cinema Aventure
+tbd
 
 'Ad Astra' volgt de ruimteavonturen van een licht autistische ingenieur,
 Roy McBride genaamd. Het is jaren geleden dat zijn vader naar Neptunes
