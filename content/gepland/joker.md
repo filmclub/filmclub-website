@@ -4,7 +4,7 @@ title: "Joker"
 date: 2019-10-01T20:00:00+02:00
 publishdate: 2019-09-05T23:05:54+02:00
 image: "posters/joker.jpg"
-leden: ["bdu"]
+leden: ["bdu", "fde"]
 trailer: zAGVQLHvwOY
 comments: true
 draft: false
