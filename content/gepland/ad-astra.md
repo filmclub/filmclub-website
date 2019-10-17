@@ -1,7 +1,7 @@
 ---
 number: 18
 title: "Ad Astra"
-date: 2019-10-17T21:45:00+02:00
+date: 2019-10-17T21:20:00+02:00
 publishdate: 2019-09-05T23:05:54+02:00
 image: "posters/ad-astra.jpg"
 leden: []
@@ -13,7 +13,7 @@ archief: "false"
 
 ##### 17/10/2019 21:45
 
-Cinema Palace
+Cinema Aventure
 
 'Ad Astra' volgt de ruimteavonturen van een licht autistische ingenieur,
 Roy McBride genaamd. Het is jaren geleden dat zijn vader naar Neptunes
