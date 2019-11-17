@@ -1,5 +1,5 @@
 ---
-number: 19
+number: 18
 title: "Joker"
 date: 2019-10-01T20:00:00+02:00
 publishdate: 2019-09-05T23:05:54+02:00
@@ -12,9 +12,8 @@ archief: "false"
 ---
 
 ##### 01/10/2019 20:00
-##### XX/10/2019 
 
-Kinepolis Antwerpen / tbd
+Kinepolis Antwerpen
 
 De jaren 80. Een clown, Arthur Fleck genaamd, voelt zich uitgekotst en verstoten
 door de maatschappij.

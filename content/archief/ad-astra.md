@@ -1,8 +1,8 @@
 ---
-number: 18
+number: 19
 title: "Ad Astra"
 date: 2019-10-17T21:20:00+02:00
-publishdate: 2019-09-05T23:05:54+02:00
+publishdate: 2019-09-04T23:05:54+02:00
 image: "posters/ad-astra.jpg"
 leden: ["ewa", "has", "nam"]
 trailer: P6AaSMfXHbA
