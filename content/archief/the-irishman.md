@@ -4,7 +4,7 @@ title: "The Irishman"
 date: 2019-11-17T20:10:00+02:00
 publishdate: 2019-11-15T23:05:54+02:00
 image: "posters/the-irishman.jpg"
-leden: []
+leden: ["has", "bdu"]
 trailer: jkycoaEVlnM
 comments: true
 draft: false
