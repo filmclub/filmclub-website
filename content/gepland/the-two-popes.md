@@ -1,8 +1,8 @@
 ---
 number: 
 title: "The two popes"
-date: 2019-12-10T21:40:00+02:00
-publishdate: 2019-11-18T20:07:54+02:00
+date: 2019-12-01T21:40:00+02:00
+publishdate: 2019-11-22T20:07:54+02:00
 image: "posters/the-two-popes.jpg"
 leden: []
 trailer: T5OhkFY1PQE

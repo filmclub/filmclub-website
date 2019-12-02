@@ -1,7 +1,7 @@
 ---
-number: 
+number: 22
 title: "Marriage Story"
-date: 2019-12-01T21:00:00+02:00
+date: 2019-12-05T21:30:00+02:00
 publishdate: 2019-11-18T20:06:54+02:00
 image: "posters/marriage-story.jpg"
 leden: []
@@ -11,7 +11,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 05-12-2019 21:30
 
 Cinema Aventure
 
