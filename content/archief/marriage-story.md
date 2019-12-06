@@ -4,7 +4,7 @@ title: "Marriage Story"
 date: 2019-12-05T21:30:00+02:00
 publishdate: 2019-11-18T20:06:54+02:00
 image: "posters/marriage-story.jpg"
-leden: []
+leden: ["has", "nam", "bdu"]
 trailer: BHi-a1n8t7M
 comments: true
 draft: false
