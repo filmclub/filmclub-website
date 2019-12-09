@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-16.04'
 
 variables:
-  hugo.version: '0.57.2'
+  hugo.version: '0.60.1'
   blog.path: '.'
 
 steps:

@@ -8,24 +8,15 @@
             {{ with .Site.Params.index.picture }}
                 <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
             {{ end }}
-            <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
+            <h1 class="index-title">{{ .Params.title }}</h1> 
         </header>
 
         <section class="text-center">
-            {{ with .Site.Params.index.subtitle }}
-            <h3 class="index-sub">{{ . }}</h3>
-            {{ end }}
-            {{ with .Site.Params.index.mdtext }}
-            <h6 class="index-text">{{ . | markdownify }}</h6>
-            {{ end }}
+
+            <h6 class="index-text">{{ .Content }}</h6>
+            
         </section>
     </div>
-    {{- partial "_shared/social.html" . -}}
-    {{ if isset .Site.Params.index "alertbar" }}
-    	{{ if .Site.Params.index.alertbar }}
-            {{- partial "_shared/alertbar.html" . -}}
-        {{ end }}
-    {{ end }}
 {{end}}
 
 {{ define "footer" }}

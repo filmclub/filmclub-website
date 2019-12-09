@@ -12,30 +12,14 @@ leden = "leden"
 
 [params]
 logo = "/images/logo.png"
-#  description ="De filmclub is een film club!"
 mailchimp = "https://dupon.us19.list-manage.com/subscribe/post?u=328bef6db0889927f790ae755&amp;id=57e185d01c"
 mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
+
 #[params.author]
 #  name = "Bart"
 #  thumbnail = "/images/author.png"
 #  description = "Voorzitter"
 
-[params.index]
-#  picture = "/images/author.png"
-  title = "Welkom bij filmclub"
-  subtitle = ""
-  mdtext = '''\
-1. Bekijk de <A href="/gepland">geplande films</a>\
-2. Kom naar de film\
-3. Herhaal drie keer en ontvang je lidkaart!\
-\
-Leden:\
-#001 <A href="/leden/bdu">bdu</a> (04/04/2019)\
-#002 <A href="/leden/has">has</a> (29/04/2019)\
-#003 <A href="/leden/nam">nam</a> (07/05/2019)\
-#004 <A href="/leden/mva">mva</a> (28/05/2019)\
-'''
-  alertbar = true
   
 ## Main Menu
 [[menu.main]]
