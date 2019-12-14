@@ -1,17 +1,17 @@
 ---
-number: 
-title: "Les Miserables"
-date: 2019-12-02T21:00:00+02:00
+number: 23
+title: "Les Misérables"
+date: 2019-12-14T21:50:00+02:00
 publishdate: 2019-11-20T20:06:54+02:00
 image: "posters/les-miserables.jpg"
-leden: []
+leden: ["bdu"]
 trailer: YFfdlLW9Rwg
 comments: true
 draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 14/12/2019 21:20
 
 Cinema Palace
 
