@@ -13,7 +13,7 @@ archief: "false"
 
 ##### 27/12/2019 20:30
 
-Cimea Palace
+Cinema Palace
 
 Begin jaren '80 bereikt de strijd tussen de verschillende maffiaclans in
 Italië een hoogtepunt. Tommaso Buscetta, een hooggeplaatst lid van de Cosa
