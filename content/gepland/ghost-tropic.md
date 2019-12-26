@@ -1,7 +1,7 @@
 ---
-number: 
+number: 25
 title: "Ghost Tropic"
-date: 2019-12-01T21:40:00+02:00
+date: 2020-01-03T21:30:00+02:00
 publishdate: 2019-11-22T20:07:54+02:00
 image: "posters/ghost-tropic.jpeg"
 leden: []
@@ -11,7 +11,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 03/01/2020 21:30
 
 Flagey Cinema
 
