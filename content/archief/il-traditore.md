@@ -4,7 +4,7 @@ title: "Il Traditore"
 date: 2019-12-27T20:30:00+02:00
 publishdate: 2019-12-25T20:07:54+02:00
 image: "posters/il-traditore.jpg"
-leden: []
+leden: ["bdu"]
 trailer: 7nvYMRpKzak
 comments: true
 draft: false
