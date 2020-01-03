@@ -4,7 +4,7 @@ title: "Ghost Tropic"
 date: 2020-01-03T21:30:00+02:00
 publishdate: 2019-11-22T20:07:54+02:00
 image: "posters/ghost-tropic.jpeg"
-leden: []
+leden: ["ewa", "bdu"]
 trailer: AQPyLwHFLnc
 comments: true
 draft: false
