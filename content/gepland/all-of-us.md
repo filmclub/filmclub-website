@@ -13,7 +13,7 @@ archief: "false"
 
 ##### TBD
 
-Aventure
+Kinepolis
 
 All of us is het tragikomische verhaal van huisvrouw Cathy,
 die nog maar enkele maanden te leven heeft. Ze komt terecht in een zelfhulpgroep
