@@ -12,7 +12,7 @@
             </div>            
             <div class="row listrecent">
                 {{ $post_paginator := .Paginate (.Pages) 6 }}
-                {{ range ($post_paginator.Pages.ByParam "number").Reverse }}
+                {{ range ($post_paginator.Pages.ByParam "number") }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}
             </div>
