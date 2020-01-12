@@ -4,7 +4,7 @@ title: "Atlantique"
 date: 2020-01-12T21:00:00+02:00
 publishdate: 2020-01-10T10:07:54+02:00
 image: "posters/atlantique.jpg"
-leden: []
+leden: ["ewa, "bdu"]
 trailer: edMppgYgjW0
 comments: true
 draft: false
