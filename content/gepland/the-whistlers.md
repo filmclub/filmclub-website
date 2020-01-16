@@ -1,7 +1,7 @@
 ---
-number: 
+number: 28
 title: "The Whistlers"
-date: 2019-01-20T21:40:00+02:00
+date: 2019-01-19T19:15:00+02:00
 publishdate: 2019-12-28T20:07:54+02:00
 image: "posters/the-whistlers.jpg"
 leden: []
@@ -11,7 +11,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 19/01/2020 19:15
 
 Cinema Palace
 
