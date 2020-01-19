@@ -4,7 +4,7 @@ title: "The Whistlers"
 date: 2019-01-19T19:15:00+02:00
 publishdate: 2019-12-28T20:07:54+02:00
 image: "posters/the-whistlers.jpg"
-leden: []
+leden: ["has", "ewa", "ado", "bdu"]
 trailer: d7I6i943qUA
 comments: true
 draft: false
