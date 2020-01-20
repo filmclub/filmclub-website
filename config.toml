@@ -4,8 +4,8 @@ title = "filmclub"
 theme = "mediumish"
 summaryLength = 25
 copyright = "filmclub 2019"
-disqusShortname = "filmclub-1"
-googleAnalytics = "UA-137589012-1"
+# disqusShortname = ""
+# googleAnalytics = ""
 
 [taxonomies]
 leden = "leden"
