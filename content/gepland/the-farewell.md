@@ -1,7 +1,7 @@
 ---
-number: 
+number: 30
 title: "The Farewell"
-date: 2020-01-31T21:40:00+02:00
+date: 2020-01-30T21:10:00+02:00
 publishdate: 2019-01-20T20:07:54+02:00
 image: "posters/the-farewell.jpg"
 leden: []
@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 30/01/2020 21:10
 
 Cinema Galeries
 
