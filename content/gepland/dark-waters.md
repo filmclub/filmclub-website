@@ -29,5 +29,5 @@ in tegen chemie concern DuPont. Hij begrijpt dat er gevochten moet worden
 voor de gerechtigheid voor een gemeenschap die al jaren wordt blootgesteld
 aan dodelijke chemicaliën Het is het begin van een 15 jaar durend gevecht
 tegen het chemie concern, waarbij hij niet alleen zijn carrière en reputatie
-op het spel zet, maar ook zijn relatie met zijn vrouw Sarah (Oscar®winnares
-Anne Hathaway) en zijn eigen gezondheid zwaar op de proef stelt.
+op het spel zet, maar ook zijn relatie met zijn vrouw Sarah en zijn eigen
+gezondheid zwaar op de proef stelt.
