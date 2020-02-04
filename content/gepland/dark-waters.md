@@ -15,9 +15,19 @@ archief: "false"
 
 UGC De Brouckère
 
-Duitsland, tijdens de Tweede Wereldoorlog. Jojo is een rare jongen die wordt
-opgevoed door een alleenstaande moeder en maar één bondgenoot heeft, zijn
-denkbeeldige vriend Adolf Hitler.
+Dark Waters vertelt het schokkende en waargebeurde verhaal van advocaat
+Rob Bilott die net partner is geworden bij een prestigieus advocatenkantoor.
+Als bedrijfsadvocaat voor diverse grote chemie bedrijven, heeft hij reeds
+zijn sporen verdiend en daarmee zijn toekomst veilig gesteld. 
 <!--more-->
-Zijn naïeve patriottisme wordt getest als een jong meisje zijn wereldvisie
-door elkaar gooit en hem dwingt om zijn grootste angsten onder ogen te zien.
+Wanneer hij
+op zijn werk benaderd wordt door een boer uit West Virginia, die beweert
+dat er giftig afval wordt geloosd op zijn land wat de oogst verpest en het
+vee doodt, raakt hij verstrengeld in een persoonlijk conflict. In de hoop
+de waarheid boven water te krijgen, dient Bilott uiteindelijk een klacht
+in tegen chemie concern DuPont. Hij begrijpt dat er gevochten moet worden
+voor de gerechtigheid voor een gemeenschap die al jaren wordt blootgesteld
+aan dodelijke chemicaliën Het is het begin van een 15 jaar durend gevecht
+tegen het chemie concern, waarbij hij niet alleen zijn carrière en reputatie
+op het spel zet, maar ook zijn relatie met zijn vrouw Sarah (Oscar®winnares
+Anne Hathaway) en zijn eigen gezondheid zwaar op de proef stelt.
