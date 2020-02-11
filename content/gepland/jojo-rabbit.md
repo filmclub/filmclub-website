@@ -1,5 +1,5 @@
 ---
-number: 
+number: 32
 title: "Jojo Rabbit"
 date: 2020-02-01T21:40:00+02:00
 publishdate: 2020-01-01T10:07:54+02:00
@@ -11,7 +11,9 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 13/02/2020 21:30
+
+UGC Toison d'Or
 
 Duitsland, tijdens de Tweede Wereldoorlog. Jojo is een rare jongen die wordt
 opgevoed door een alleenstaande moeder en maar één bondgenoot heeft, zijn
