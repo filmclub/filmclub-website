@@ -4,7 +4,7 @@ title: "La Llorona"
 date: 2020-01-27T21:40:00+02:00
 publishdate: 2019-01-20T20:07:54+02:00
 image: "posters/la-llorona.jpeg"
-leden: []
+leden: ["bdu"]
 trailer: n8601rNoVvI
 draft: false
 archief: "false"
