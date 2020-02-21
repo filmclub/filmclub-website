@@ -1,7 +1,7 @@
 ---
 number: 34
 title: "The Gentlemen"
-date: 2020-02-21T21:40:00+02:00
+date: 2020-02-24T21:40:00+02:00
 publishdate: 2019-02-17T20:00:00+02:00
 image: "posters/the-gentlemen.jpg"
 leden: []
@@ -11,7 +11,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 24/02/2020 21:40
 
 Cinema Aventure
 
