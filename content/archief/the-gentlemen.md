@@ -4,7 +4,7 @@ title: "The Gentlemen"
 date: 2020-02-24T21:40:00+02:00
 publishdate: 2019-02-17T20:00:00+02:00
 image: "posters/the-gentlemen.jpg"
-leden: []
+leden: ["has", "bdu"]
 trailer: QZU5hNOzVHo
 comments: true
 draft: false
@@ -22,6 +22,3 @@ laatste geruchten – van de hand wil doen, maar enkel aan de juiste koper.
 Kandidaten zijn er genoeg, al spelen ze het spel wel erg vuil... De Londense
 onderwereld ontploft in een kluwen van chantage, dubbel spel, samenzweringen
 en bloedvergieten.
-Cathy beslist om haar familie niet in te lichten over haar toestand,
-maar ze heeft een plan. Samen met de andere leden van de praatgroep
-begint ze haar toekomstplannen en die van haar medepatiënten vorm te geven.
