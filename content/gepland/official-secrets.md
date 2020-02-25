@@ -1,27 +1,30 @@
 ---
-number: 33
-title: "La Llorona"
-date: 2020-01-27T21:40:00+02:00
-publishdate: 2019-01-20T20:07:54+02:00
-image: "posters/la-llorona.jpeg"
+number: 35
+title: "Official Secrets"
+date: 2020-02-28T21:50:00+02:00
+publishdate: 2020-02-23T20:07:54+02:00
+image: "posters/official-secrets.jpg"
 leden: []
-trailer: n8601rNoVvI
-draft: true
+trailer: V3vIYy38Fys
+comments: true
+draft: false
 archief: "false"
 ---
 
-##### 17/02/2020 21:20
+##### 28/02/2020 21:50
 
-Cinema Palace
+[UGC Toison d'Or](https://www.ugc.be/film.html?id=7325)
 
-Dertig jaar na de burgeroorlog in Guatemala wordt de ex-generaal Enrique
-Monteverde, inmiddels een oude man die lijdt aan de ziekte van Alzheimer,
-berecht en schuldig bevonden voor zijn aandeel in de volkerenmoord.
+Het waargebeurde verhaal van Katherine Gun; klokkenluider van de Britse geheime
+dienst die tijdens de aanloop naar de Irak-invasie in 2003, vertrouwelijke
+NSA-documenten lekte
 <!--more-->
-Maar nadat hij tijdens het proces in elkaar zakt en in allerijl naar het
-ziekenhuis wordt gevoerd, komt hij weer op vrije voeten. Vluchtend voor
-een uitzinnige menigte demonstranten trekt hij zich terug in zijn luxueuze
-huis, samen met een loyale bodyguard, zijn kille vrouw, zijn volwassen dochter,
-hun Indiaanse huishoudster en diens mysterieuze nieuwe bediende Alma. Buiten de
-muren van het huis weerklinken voortdurend protestkreten, maar in de vroege
-uurtjes begint Monteverde vreemde dingen te horen en zien in zijn huis.
+waarin een illegale spionageoperatie tussen de Verenigde
+Staten en het Verenigd Koninkrijk werd onthuld. Met een groot eigen risico
+publiceerde journalist Martin Bright het gelekte document in de Londense krant
+The Observer, waarna het wereldwijd de krantenkoppen haalde. Katherine werd door
+haar regering een verrader genoemd en beschuldigd van het overtreden van de
+'Official Secrets Act'. Katherine weigerde te buigen en bleef bij haar
+standpunt, ook al werd haar leven en dat van haar geliefden hiermee in gevaar gebracht.
+Het leven in de toekomst blijkt echter geen sinecure, vooral wanneer ze hun
+weg naar het verleden niet meteen lijken terug te vinden.

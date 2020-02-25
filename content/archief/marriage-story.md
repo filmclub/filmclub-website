@@ -11,7 +11,7 @@ draft: false
 archief: "false"
 ---
 
-##### 05-12-2019 21:30
+##### 05/12/2019 21:30
 
 Cinema Aventure
 
