@@ -1,12 +1,12 @@
 ---
-number: 36
+number: 
 title: "Der Staat gegen Fritz Bauer"
 date: 2020-03-03T21:30:00+02:00
 publishdate: 2020-02-23T20:07:54+02:00
 image: "posters/der-staat-gegen-fritz-bauer.jpg"
 leden: []
 trailer: rVmzp77-ab8
-draft: false
+draft: true
 archief: "false"
 ---
 

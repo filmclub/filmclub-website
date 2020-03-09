@@ -1,5 +1,5 @@
 ---
-number: 39
+number: 38
 title: "Just Before Dawn"
 date: 2020-03-19T21:30:00+02:00
 publishdate: 2019-02-20T20:07:54+02:00
