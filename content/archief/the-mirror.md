@@ -4,7 +4,7 @@ title: "The Mirror (Zerkalo)"
 date: 2020-03-16T20:30:00+02:00
 publishdate: 2020-02-23T20:06:54+02:00
 image: "posters/the-mirror.jpg"
-leden: []
+leden: ["bdu"]
 trailer: _9IRsGljwdM
 draft: false
 archief: "false"
