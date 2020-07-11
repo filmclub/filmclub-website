@@ -4,7 +4,7 @@ title: "Monos"
 date: 2020-07-03T21:40:00+02:00
 publishdate: 2020-06-26T20:07:54+02:00
 image: "posters/monos.jpg"
-leden: []
+leden: ["ewa", "has", "bdu"]
 trailer: j6lMIOs3OYw
 draft: false
 archief: "false"
