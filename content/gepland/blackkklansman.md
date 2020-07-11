@@ -6,7 +6,7 @@ publishdate: 2020-07-02T20:07:54+02:00
 image: "posters/blackkklansman.jpg"
 leden: []
 trailer: pFc6I0rgmgY
-draft: false 
+draft: true 
 archief: "false"
 ---
 
