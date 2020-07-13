@@ -12,14 +12,11 @@ leden = "leden"
 
 [params]
 logo = "/images/logo.png"
-mailchimp = "https://dupon.us19.list-manage.com/subscribe/post?u=328bef6db0889927f790ae755&amp;id=57e185d01c"
-mailprotect = "b_328bef6db0889927f790ae755_57e185d01c"
 
 #[params.author]
 #  name = "Bart"
 #  thumbnail = "/images/author.png"
 #  description = "Voorzitter"
-
   
 ## Main Menu
 [[menu.main]]
