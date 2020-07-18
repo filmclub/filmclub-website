@@ -4,7 +4,7 @@ title: "Crash"
 date: 2020-07-18T19:45:00+02:00
 publishdate: 2020-06-23T20:07:54+02:00
 image: "posters/crash.jpg"
-leden: []
+leden: ["bdu"]
 trailer: kuQGmJxEK0M
 draft: false 
 archief: "false"
