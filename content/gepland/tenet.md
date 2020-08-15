@@ -1,5 +1,5 @@
 ---
-number: 43
+number: 44
 title: "Tenet"
 date: 2020-07-17T21:30:00+02:00
 publishdate: 2020-06-03T20:07:54+02:00
@@ -10,9 +10,9 @@ draft: false
 archief: "false"
 ---
 
-##### ##/08/2020
+##### ##/08/2020 20:00
 
-UGC De Brouckère
+[UGC De Brouckère](https://www.ugc.be/film.html?id=7539&cinemaId=2)
 
 Armed with only one word -- Tenet -- and fighting for the survival of the entire
 world, the Protagonist journeys through a twilight world of international
