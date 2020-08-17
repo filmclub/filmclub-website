@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### ##/08/2020 20:00
+##### 27/08/2020 20:00
 
 [UGC De Brouckère](https://www.ugc.be/film.html?id=7539&cinemaId=2)
 
