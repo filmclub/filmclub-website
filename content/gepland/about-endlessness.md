@@ -1,7 +1,7 @@
 ---
 number: 43
 title: "About Endlessness"
-date: 2020-08-17T21:35:00+02:00
+date: 2020-08-19T21:20:00+02:00
 publishdate: 2020-08-14T20:07:54+02:00
 image: "posters/about-endlessness.jpg"
 leden: []
@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 17/08/2020 21:35
+##### 19/08/2020 21:20
 
 [Cinema Palace](https://cinema-palace.be/nl/film/about-endlessness-0)
 
