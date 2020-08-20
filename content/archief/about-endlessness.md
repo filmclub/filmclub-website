@@ -4,7 +4,7 @@ title: "About Endlessness"
 date: 2020-08-19T21:20:00+02:00
 publishdate: 2020-08-14T20:07:54+02:00
 image: "posters/about-endlessness.jpg"
-leden: []
+leden: ["bdu"]
 trailer: 1Iud9lPZpN0
 draft: false
 archief: "false"
