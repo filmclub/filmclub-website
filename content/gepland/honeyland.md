@@ -1,7 +1,7 @@
 ---
 number: 46
 title: "Honeyland"
-date: 2020-09-01T21:30:00+02:00
+date: 2020-08-31T21:15:00+02:00
 publishdate: 2020-08-19T20:07:54+02:00
 image: "posters/honeyland.jpg"
 leden: []
@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### ##/##/2020
+##### 31/08/2020 21:15
 
 [Galeries](https://www.galeries.be/honeyland/)
 
