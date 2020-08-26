@@ -4,7 +4,7 @@ title: "The Lighthouse"
 date: 2020-08-25T21:20:00+02:00
 publishdate: 2020-08-18T20:07:54+02:00
 image: "posters/the-lighthouse.jpg"
-leden: []
+leden: ["ewa", "bdu"]
 trailer: HGQtix20zO8
 draft: false
 archief: "false"
