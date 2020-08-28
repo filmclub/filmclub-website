@@ -4,7 +4,7 @@ title: "Tenet"
 date: 2020-07-17T21:30:00+02:00
 publishdate: 2020-06-03T20:07:54+02:00
 image: "posters/tenet.jpg"
-leden: []
+leden: ["ewa", "fvi", "has", "aba", "tpi", "bdu"]
 trailer: LdOM0x0XDMo
 draft: false
 archief: "false"
