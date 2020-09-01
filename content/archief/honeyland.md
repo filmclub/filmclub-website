@@ -4,7 +4,7 @@ title: "Honeyland"
 date: 2020-08-31T21:15:00+02:00
 publishdate: 2020-08-19T20:07:54+02:00
 image: "posters/honeyland.jpg"
-leden: ["has",]
+leden: ["has", "bdu"]
 trailer: otEc7jCvyK4
 draft: false
 archief: "false"
