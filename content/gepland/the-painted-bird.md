@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 05/09/2020 19:30
+##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/briff-painted-bird)
 
