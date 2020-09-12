@@ -1,7 +1,7 @@
 ---
-number: 47
+number: 
 title: "The Painted Bird"
-date: 2020-09-05T19:30:00+02:00
+date: 2020-09-20T19:30:00+02:00
 publishdate: 2020-08-23T20:07:54+02:00
 image: "posters/the-painted-bird.jpg"
 leden: []
@@ -12,7 +12,7 @@ archief: "false"
 
 ##### TBD
 
-[Cinema Palace](https://cinema-palace.be/nl/film/briff-painted-bird)
+[Cinema Palace](https://cinema-palace.be/nl/film/painted-bird)
 
 De film volgt de reis van een jongen, die door zijn vervolgde ouders toevertrouwd
 werd aan een oudere pleegmoeder. De oude vrouw sterft snel en de jongen is alleen,
