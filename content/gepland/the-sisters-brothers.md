@@ -1,8 +1,8 @@
 ---
-number: 
+number: 51
 title: "The Sisters Brothers"
-date: 2020-09-15T20:00:00+02:00
-publishdate: 2020-10-16T21:00:54+02:00
+date: 2020-10-16T21:00:00+02:00
+publishdate: 2020-09-12T21:00:54+02:00
 image: "posters/the-sisters-brothers.jpg"
 leden: []
 trailer: JrHRg8AzIT4

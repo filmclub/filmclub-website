@@ -1,5 +1,5 @@
 ---
-number: 
+number: 50
 title: "Jeanne Dielman, 23 quai du commerce, 1080 Bruxelles"
 date: 2020-10-07T20:30:00+02:00
 publishdate: 2020-09-07T20:07:54+02:00
