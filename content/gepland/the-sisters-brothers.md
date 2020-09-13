@@ -1,0 +1,20 @@
+---
+number: 
+title: "The Sisters Brothers"
+date: 2020-09-15T20:00:00+02:00
+publishdate: 2020-10-16T21:00:54+02:00
+image: "posters/the-sisters-brothers.jpg"
+leden: []
+trailer: JrHRg8AzIT4
+draft: false
+archief: "false"
+---
+
+##### 16-10-2020 21:00
+
+[Flagey](https://www.flagey.be/nl/activity/7639-the-sisters-brothers-jacques-audiard)
+
+De Franse topregisseur Jacques Audiard debuteerde in het Engels met deze komische
+western waarin twee broers (Eli en Charlie Sisters) in opdracht een buitenlandse
+goudzoeker achterna zitten om hem een kopje kleiner te maken.
+<!--more-->
