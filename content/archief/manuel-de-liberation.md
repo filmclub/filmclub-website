@@ -4,7 +4,7 @@ title: "Manuel de Libération"
 date: 2020-09-12T21:30:00+02:00
 publishdate: 2020-09-11T20:07:54+02:00
 image: "posters/manuel-de-liberation.jpg"
-leden: []
+leden: ["bdu"]
 trailer: UZuYrPG3hAY
 draft: false
 archief: "false"
