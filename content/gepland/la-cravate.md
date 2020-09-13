@@ -1,7 +1,7 @@
 ---
-number: 49
+number: 50
 title: "La Cravate"
-date: 2020-09-15T20:00:00+02:00
+date: 2020-10-16T21:30:00+02:00
 publishdate: 2020-09-07T20:07:54+02:00
 image: "posters/la-cravate.jpg"
 leden: []
@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### 16-10-2020 21:30
 
 [Cinema Nova](https://www.nova-cinema.org/prog/2020/179-a-la-folie-waanzin/la-cravate/)
 

@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### TBD
+##### ##-09-2020
 
 [Cinema Palace](https://cinema-palace.be/nl/film/painted-bird)
 
