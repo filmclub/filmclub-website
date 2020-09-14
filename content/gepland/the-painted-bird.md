@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### ##-09-2020
+##### 17/09/2020 20:00
 
 [Cinema Palace](https://cinema-palace.be/nl/film/painted-bird)
 

@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 16-10-2020 21:30
+##### 16/10/2020 21:30
 
 [Cinema Nova](https://www.nova-cinema.org/prog/2020/179-a-la-folie-waanzin/la-cravate/)
 

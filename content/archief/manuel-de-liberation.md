@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 12-09-2020 21:30
+##### 12/09/2020 21:30
 
 [Cinema Nova](https://www.nova-cinema.org/prog/2020/179-a-la-folie-waanzin/a-la-folie/#article-22941)
 

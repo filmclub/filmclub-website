@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 29-10-2020 20:30
+##### 29/10/2020 20:30
 
 [Flagey](https://www.flagey.be/nl/activity/7639-the-sisters-brothers-jacques-audiard)
 

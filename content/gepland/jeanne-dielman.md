@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 07-10-2020 20:30
+##### 07/10/2020 20:30
 
 [Flagey](https://www.flagey.be/nl/activity/7618-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman)
 
