@@ -4,7 +4,7 @@ title: "The Painted Bird"
 date: 2020-09-20T19:30:00+02:00
 publishdate: 2020-08-23T20:07:54+02:00
 image: "posters/the-painted-bird.jpg"
-leden: []
+leden: ["bdu"]
 trailer: 6BmDew3bJbQ
 draft: false
 archief: "false"
