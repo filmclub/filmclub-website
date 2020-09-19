@@ -2,7 +2,7 @@
 number: 21
 title: "Portrait de la jeune fille en feu"
 date: 2019-11-25T21:40:00+02:00
-publishdate: 2019-11-18T20:05:54+02:00
+
 image: "posters/portrait-de-la-jeune-fille-en-feu.jpg"
 leden: ["bdu"]
 trailer: LBDSrUFfGHI

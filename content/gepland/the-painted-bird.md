@@ -1,18 +1,15 @@
 ---
 number: 48
 title: "The Painted Bird"
-date: 2020-09-20T19:30:00+02:00
-publishdate: 2020-08-23T20:07:54+02:00
+date: 2020-09-20T20:00:00
+
 image: "posters/the-painted-bird.jpg"
-leden: []
+leden: ["bdu"]
 trailer: 6BmDew3bJbQ
 draft: false
-archief: "false"
+cinema: "Cinema Palace"
+link: https://cinema-palace.be/nl/film/painted-bird"
 ---
-
-##### 17/09/2020 20:00
-
-[Cinema Palace](https://cinema-palace.be/nl/film/painted-bird)
 
 De film volgt de reis van een jongen, die door zijn vervolgde ouders toevertrouwd
 werd aan een oudere pleegmoeder. De oude vrouw sterft snel en de jongen is alleen,

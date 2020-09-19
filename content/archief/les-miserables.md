@@ -2,7 +2,7 @@
 number: 23
 title: "Les Misérables"
 date: 2019-12-14T21:50:00+02:00
-publishdate: 2019-11-20T20:06:54+02:00
+
 image: "posters/les-miserables.jpg"
 leden: ["bdu"]
 trailer: YFfdlLW9Rwg

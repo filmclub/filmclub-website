@@ -2,7 +2,7 @@
 number: 52
 title: "Querelle"
 date: 2020-10-23T20:30:00+02:00
-publishdate: 2020-09-12T21:00:54+02:00
+
 image: "posters/querelle.jpg"
 leden: []
 trailer: wGYtVqXcoi0

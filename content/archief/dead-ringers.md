@@ -2,7 +2,7 @@
 number: 37
 title: "Dead Ringers"
 date: 2020-07-02T21:00:00+02:00
-publishdate: 2019-03-08T20:07:54+02:00
+
 image: "posters/dead-ringers.jpg"
 leden: ["bdu"]
 trailer: -ZHbu3msmes

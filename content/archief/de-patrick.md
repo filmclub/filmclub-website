@@ -3,7 +3,7 @@ number: 16
 title: "De Patrick"
 cinema: "Cinema Palace"
 date: 2019-09-12T19:15:00+02:00
-publishdate: 2019-07-13T21:45:45+02:00
+
 image: "posters/de-patrick.jpg"
 leden: ["has", "bdu"]
 trailer: AEqjnf_KxZs

@@ -2,7 +2,7 @@
 number: 8
 title: "Escape From New York"
 date: 2019-05-28T13:14:44+02:00
-publishdate: 2019-04-02T13:14:44+02:00
+
 image: "posters/escape-from-new-york.jpg"
 leden: ["mva", "bdu"]
 trailer: PYYZFcvQfRg

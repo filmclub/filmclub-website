@@ -2,7 +2,7 @@
 number: 34
 title: "The Gentlemen"
 date: 2020-02-24T21:40:00+02:00
-publishdate: 2019-02-17T20:00:00+02:00
+
 image: "posters/the-gentlemen.jpg"
 leden: ["has", "bdu"]
 trailer: QZU5hNOzVHo

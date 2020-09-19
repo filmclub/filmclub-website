@@ -2,7 +2,7 @@
 number: 42
 title: "Été 85"
 date: 2020-08-05T21:30:00+02:00
-publishdate: 2020-07-26T20:07:54+02:00
+
 image: "posters/ete-85.jpg"
 leden: ["ewa"]
 trailer: JLaZBRT6Ev4

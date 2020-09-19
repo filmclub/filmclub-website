@@ -10,22 +10,9 @@
         </div>
         <div class="card-body">
             <h2 class="card-title"><a class="text-dark" href="{{ .URL }}">#{{ .Params.number }} {{ .Title }}</a></h2>
+            <h5>{{ .Date.Format "02/01/2006 15:04" }}</h5>
+            <A href="{{ .Params.link }}">{{ .Params.cinema }}</A> <br> <br>
             <h4 class="card-text">{{ .Summary }}</h4>            
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                {{if isset .Site.Params "author"}}
-                {{if isset .Site.Params "author_thumb"}}
-                    <span class="meta-footer-thumb">
-                    <img class="author-thumb" src="{{ .Site.Params.author_thumb | urlize | relURL  }}" alt="{{ .Site.Params.author }}">
-                    </span>                
-                    <span class="author-meta">
-                    <span class="post-name">{{ .Site.Params.author }}</a></span><br/>
-                {{end}}
-                {{end}}
-                </span>
-                <div class="clearfix"></div>
-            </div>
         </div>
     </div>
 </div>

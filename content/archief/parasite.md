@@ -2,7 +2,7 @@
 number: 17
 title: "Parasite"
 date: 2019-09-19T21:30:00+02:00
-publishdate: 2019-09-02T21:00:02+02:00
+
 image: "posters/parasite.jpeg"
 leden: ["nam", "has", "bdu", "ewa"]
 trailer: SEUXfv87Wpk

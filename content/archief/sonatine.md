@@ -2,7 +2,7 @@
 number: 36
 title: "Sonatine"
 date: 2020-03-12T21:30:00+02:00
-publishdate: 2019-01-20T20:07:54+02:00
+
 image: "posters/sonatine.jpg"
 leden: ["bdu"]
 trailer: JCTyHEZYK50

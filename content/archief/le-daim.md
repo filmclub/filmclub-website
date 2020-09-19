@@ -2,7 +2,7 @@
 number: 13
 title: "Le Daim"
 date: 2019-07-22T19:45:00+02:00
-publishdate: 2019-07-13T21:42:08+02:00
+
 image: "posters/le-daim.jpeg"
 trailer: 9SqNWh5RnXY
 leden: ["has", "bdu"]

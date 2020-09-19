@@ -2,7 +2,7 @@
 number: 5
 title: "Freaks"
 date: 2019-04-20T10:24:01+02:00
-publishdate: 2019-04-02T13:14:44+02:00
+
 image: "posters/freaks.jpg"
 leden: ["nam", "has", "bdu"]
 trailer: iqaVJbXHD-I

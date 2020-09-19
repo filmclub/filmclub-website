@@ -2,7 +2,7 @@
 number: 49
 title: "Chez Jolie Coiffure"
 date: 2020-09-30T17:30:00+02:00
-publishdate: 2020-09-12T21:00:54+02:00
+
 image: "posters/chez-folie-coiffure.jpg"
 leden: []
 trailer: GVCpxCkNnX0

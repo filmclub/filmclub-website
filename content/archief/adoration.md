@@ -2,7 +2,7 @@
 number: 29
 title: "Adoration"
 date: 2020-01-22T21:20:00+02:00
-publishdate: 2019-01-19T20:07:54+02:00
+
 image: "posters/adoration.jpg"
 leden: ["has", "bdu"]
 trailer: 7Kr4MNlpfrE

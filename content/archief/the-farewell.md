@@ -2,7 +2,7 @@
 number: 30
 title: "The Farewell"
 date: 2020-01-30T21:10:00+02:00
-publishdate: 2019-01-20T20:07:54+02:00
+
 image: "posters/the-farewell.jpg"
 leden: ["bdu"]
 trailer: RofpAjqwMa8

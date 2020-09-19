@@ -2,7 +2,7 @@
 number: 40
 title: "Öndög"
 date: 2020-07-15T21:30:00+02:00
-publishdate: 2020-07-12T20:07:54+02:00
+
 image: "posters/ondog.jpg"
 leden: ["bdu"]
 trailer: g_-d2tEdCac
