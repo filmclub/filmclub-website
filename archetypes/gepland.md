@@ -9,10 +9,10 @@ image: "posters/{{ .Name }}.jpg"
 draft: false
 ---
 
-##### {{ replace .Name "-" " " | title }}
+##### 01/01/2020 21:00
 
 [Cinema](https://link)
 
-Synopsys
+Synopsis
 <!--more-->
 maybe more
