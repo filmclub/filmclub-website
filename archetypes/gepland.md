@@ -4,7 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 publishdate: {{ .Date }}
 trailer: "hEJnMQG9ev8"
-leden: [] #qsdf
+leden: [] 
 image: "posters/{{ .Name }}.jpg"
 draft: false
 ---
