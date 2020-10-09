@@ -4,7 +4,7 @@ title: "Jeanne Dielman, 23 quai du commerce, 1080 Bruxelles"
 date: 2020-10-07T20:30:00+02:00
 publishdate: 2020-09-07T20:07:54+02:00
 image: "posters/jeanne-dielman.jpg"
-leden: []
+leden: ["has", "bdu"]
 trailer: 5C5Az-239uM
 draft: false
 archief: "false"
@@ -14,7 +14,7 @@ archief: "false"
 
 [Flagey](https://www.flagey.be/nl/activity/7618-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman)
 
-Delphine Seyrig als een Brusselse huisvrouw die genadeloos en eindelos wordt
+Delphine Seyrig als een Brusselse huisvrouw die genadeloos en eindeloos wordt
 geobserveerd in haar dagelijkse bezigheden.
 <!--more-->
 Deze indringende rituele film over eentonige gebaren en handelingen wordt
