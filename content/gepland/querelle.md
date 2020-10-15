@@ -1,7 +1,7 @@
 ---
 number: 53
 title: "Querelle"
-date: 2020-10-24T20:30:00+02:00
+date: 2020-10-21T21:15:00+02:00
 publishdate: 2020-09-12T21:00:54+02:00
 image: "posters/querelle.jpg"
 leden: []
@@ -10,7 +10,7 @@ draft: false
 archief: "false"
 ---
 
-##### 24/10/2020 20:30
+##### 21/10/2020 21:15
 
 [Flagey](https://www.flagey.be/nl/activity/7616-querelle-rainer-werner-fassbinder)
 
