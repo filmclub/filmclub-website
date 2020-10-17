@@ -4,7 +4,7 @@ title: "La Cravate"
 date: 2020-10-16T21:30:00+02:00
 publishdate: 2020-09-07T20:07:54+02:00
 image: "posters/la-cravate.jpg"
-leden: []
+leden: ["bdu"]
 trailer: sO4T6o0ppRY
 draft: false
 archief: "false"
