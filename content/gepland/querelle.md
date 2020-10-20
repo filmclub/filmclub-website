@@ -12,7 +12,7 @@ archief: "false"
 
 ##### 21/10/2020 21:15
 
-[Flagey](https://www.flagey.be/nl/activity/7616-querelle-rainer-werner-fassbinder)
+[Flagey](https://www.flagey.be/nl/activity/7834-querelle-rainer-werner-fassbinder)
 
 Fassbinders zwanezang is een onanistische fantasie, gebaseerd op het boek van Genet,
 ontsproten aan de frustraties van het homo-zijn in een kleinburgerlijke samenleving.
