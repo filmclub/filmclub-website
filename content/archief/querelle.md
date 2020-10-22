@@ -4,7 +4,7 @@ title: "Querelle"
 date: 2020-10-21T21:15:00+02:00
 publishdate: 2020-09-12T21:00:54+02:00
 image: "posters/querelle.jpg"
-leden: []
+leden: ["has", "ewa", "bdu"]
 trailer: wGYtVqXcoi0
 draft: false
 archief: "false"
