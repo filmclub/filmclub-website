@@ -1,17 +1,17 @@
 ---
 number: 53
 title: "Corpus Christi"
-date: 2020-10-26T21:00:00+02:00
-publishdate: 2020-10-06T21:11:32+02:00
+date: 2021-05-12T20:00:00+02:00
+publishdate: 2021-05-09T21:11:32+02:00
 trailer: "uYnzL5ifXsw"
 leden: [] 
 image: "posters/corpus-christi.jpg"
-draft: true
+draft: false
 ---
 
-##### 26/10/2020 20:40
+##### 12/05/2020 20:00
 
-[Cinema Palace](https://cinema-palace.be/nl/film/corpus-christi)
+[Galeries](https://galeries.be/en/corpus-christi-lux-audience-week/)
 
 Terwijl hij zijn straf voor een tweedegraads moord uitzit in een gesloten
 jeugdinstelling, ervaart Daniel een religieuze roeping maar door zijn criminele
