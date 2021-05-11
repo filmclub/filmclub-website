@@ -9,7 +9,7 @@ image: "posters/corpus-christi.jpg"
 draft: false
 ---
 
-##### 12/05/2020 20:00
+##### 12/05/2021 20:00
 
 [Galeries](https://galeries.be/en/corpus-christi-lux-audience-week/)
 
