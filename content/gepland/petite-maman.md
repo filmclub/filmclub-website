@@ -3,7 +3,7 @@ number: 55
 title: "Petite maman"
 date: 2021-06-21T20:00:00+02:00
 publishdate: 2021-05-25T20:14:26+02:00
-trailer: ""
+trailer: "SqY8DMVjVs4"
 leden: [] 
 image: "posters/petite-maman.jpg"
 draft: false
