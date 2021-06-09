@@ -4,7 +4,7 @@ title: "Nomadland"
 date: 2021-06-09T09:00:00+02:00
 publishdate: 2021-05-10T21:00:54+02:00
 image: "posters/nomadland.jpg"
-leden: []
+leden: ["ewa", "nam", "bdu"]
 trailer: 6sxCFZ8_d84
 draft: false
 ---
