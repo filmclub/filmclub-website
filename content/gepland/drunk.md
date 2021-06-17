@@ -9,6 +9,7 @@ image: "posters/drunk.jpg"
 draft: false
 ---
 
+##### 13/06/2021 14:00
 ##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/drunk-druk-0)
