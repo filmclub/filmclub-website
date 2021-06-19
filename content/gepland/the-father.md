@@ -9,7 +9,7 @@ image: "posters/the-father.jpg"
 draft: false
 ---
 
-##### 17/06/2020 21:35
+##### 19/06/2020 21:35
 
 [Cinema Palace](https://cinema-palace.be/fr/film/father)
 
