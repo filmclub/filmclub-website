@@ -9,7 +9,7 @@ image: "posters/petite-maman.jpg"
 draft: false
 ---
 
-##### 21/06/2020 20:00
+##### TBD
 
 [Flagey](https://www.flagey.be/nl/activity/8163-petite-maman-belgische-premiere-celine-sciamma)
 
@@ -19,3 +19,4 @@ waar haar moeder opgroeide. In het bos ontmoet ze een ander jong meisje.
 Langzamerhand wordt duidelijk dat ze het meisje kent, maar wie is ze? 
 Nelly ontdekt dat haar moeder ook jong is geweest en dat helpt haar
 te begrijpen wie haar moeder is.
+<!--  -->
