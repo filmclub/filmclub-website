@@ -1,7 +1,7 @@
 ---
-number: 58
+number: 57
 title: "Mandibules"
-date: 2021-07-01T20:00:00+02:00
+date: 2021-07-03T21:15:00+02:00
 publishdate: 2021-06-03T20:14:26+02:00
 trailer: "I18vFTaFmpo"
 leden: [] 
@@ -9,7 +9,7 @@ image: "posters/mandibules.jpg"
 draft: false
 ---
 
-##### TBD
+##### 03/07/2021 21:15
 
 [Cinema Palace](https://cinema-palace.be/nl/film/mandibules-0)
 

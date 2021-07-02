@@ -1,5 +1,5 @@
 ---
-number: 59
+number: 58
 title: "Minari"
 date: 2021-06-30T20:00:00+02:00
 publishdate: 2021-06-02T20:14:26+02:00
@@ -11,7 +11,7 @@ draft: false
 
 ##### TBD
 
-[tbd](http://galeries.be)
+[Galeries](https://galeries.be/nl/minari/)
 
 De Koreaanse immigrant Jacob verhuist in de jaren 1980 met zijn echtgenote Monica
 en kinderen David en Anne van de de Amerikaanse westkust naar het landelijke Arkansas. 
