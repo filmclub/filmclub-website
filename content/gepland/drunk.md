@@ -10,7 +10,7 @@ draft: false
 ---
 
 ##### 13/06/2021 14:00
-##### TBD
+##### 18/08/2021 21:10
 
 [Cinema Palace](https://cinema-palace.be/nl/film/drunk-druk-0)
 
