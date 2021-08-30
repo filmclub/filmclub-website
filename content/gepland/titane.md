@@ -6,7 +6,7 @@ publishdate: 2021-08-24T20:14:26+02:00
 trailer: "Q5_w2W5G9OM"
 leden: [] 
 image: "posters/titane.jpg"
-draft: false
+draft: trus
 ---
 
 ##### 30/08/2021 21:30
