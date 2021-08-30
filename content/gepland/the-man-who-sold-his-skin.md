@@ -1,5 +1,5 @@
 ---
-number: 59
+number: 60
 title: "The man who sold his skin"
 date: 2021-08-30T21:25:00+02:00
 publishdate: 2021-08-25T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/the-man-who-sold-his-skin.jpg"
 draft: false
 ---
 
-##### 30/08/2021 21:25
+##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/man-who-sold-his-skin-lhomme-qui-vendu-sa-peau)
 
