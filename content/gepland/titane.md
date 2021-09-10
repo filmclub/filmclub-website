@@ -1,15 +1,15 @@
 ---
 number: 59
 title: "Titane"
-date: 2021-08-30T21:30:00+02:00
+date: 2021-09-10T21:30:00+02:00
 publishdate: 2021-08-24T20:14:26+02:00
 trailer: "Q5_w2W5G9OM"
 leden: [] 
 image: "posters/titane.jpg"
-draft: trus
+draft: false
 ---
 
-##### 30/08/2021 21:30
+##### 10/09/2021 21:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/titane-vo-fr-st-en)
 
