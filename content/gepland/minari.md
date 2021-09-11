@@ -6,7 +6,7 @@ publishdate: 2021-06-02T20:14:26+02:00
 trailer: "KQ0gFidlro8"
 leden: [] 
 image: "posters/minari.jpg"
-draft: false
+draft: true
 ---
 
 ##### TBD
