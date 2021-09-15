@@ -4,7 +4,7 @@ title: "Drunk"
 date: 2021-06-12T20:00:00+02:00
 publishdate: 2021-05-25T20:14:26+02:00
 trailer: "WuClROtJCaw"
-leden: ["ewa", "fvi", "has", "kbo", "sbo"] 
+leden: ["ewa", "fvi", "has", "kbo", "sde"] 
 image: "posters/drunk.jpg"
 draft: false
 ---

@@ -4,7 +4,7 @@ title: "The Assistant"
 date: 2021-06-30T20:00:00+02:00
 publishdate: 2021-06-02T20:14:26+02:00
 trailer: "6cLf0i-kYio"
-leden: [] 
+leden: ["kbo", "has", "bdu"] 
 image: "posters/the-assistant.jpg"
 draft: false
 ---
