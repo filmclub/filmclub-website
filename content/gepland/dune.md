@@ -1,7 +1,7 @@
 ---
-number: 62
+number: 61
 title: "Dune"
-date: 2021-09-20T20:00:00+02:00
+date: 2021-10-05T20:45:00+02:00
 publishdate: 2021-09-02T20:14:26+02:00
 trailer: "8g18jFHCLXk"
 leden: [] 
@@ -9,9 +9,9 @@ image: "posters/dune.jpg"
 draft: false
 ---
 
-##### TBD
+##### 05/10/2021 20:45
 
-[Kinepolis IMAX](https://kinepolis.be/nl/films/dune)
+[Cinema Palace](https://cinema-palace.be/nl/film/dune)
 
 Het mythische en emotionele heldenverhaal van Paul Atreides, een briljante en begaafde
 jongeman die tot grootse dingen is voorbestemd.
