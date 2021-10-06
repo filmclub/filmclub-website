@@ -12,7 +12,7 @@ draft: false
 ##### 05/10/2021 20:45
 ##### TBD
 
-[Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?9A1444F9-A17E-4836-AA9E-9CB29ADA9880)
+[Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?9A1444F9-A17E-4836-AA9E-9CB29ADA9880)  
 [Cinema Palace](https://cinema-palace.be/nl/film/dune)
 
 Het mythische en emotionele heldenverhaal van Paul Atreides, een briljante en begaafde
