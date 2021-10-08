@@ -4,7 +4,7 @@ title: "Holgut"
 date: 2021-10-06T21:30:00+02:00
 publishdate: 2021-10-04T20:14:26+02:00
 trailer: "gMIct51ObkY"
-leden: [] 
+leden: ["bdu"] 
 image: "posters/holgut.jpg"
 draft: false
 ---
