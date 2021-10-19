@@ -2,10 +2,10 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-16.04'
+  vmImage: 'Ubuntu-latest'
 
 variables:
-  hugo.version: '0.64.1'
+  hugo.version: '0.88.1'
   blog.path: '.'
 
 steps:
