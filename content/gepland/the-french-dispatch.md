@@ -9,9 +9,9 @@ image: "posters/the-french-dispatch.jpg"
 draft: false
 ---
 
-##### TBD
+##### 13/11/2021 21:40
 
-[Cinema Palace](https://cinema-palace.be/nl/film/french-dispatch)
+[Aventure Cinema](https://cinema-aventure.be/catalogue/movie/?099ECCDF-B409-88D9-63E0-1C397D2C3209)
 
 The French Dispatch presenteert een collectie verhalen uit de laatste uitgave
 van een Amerikaans tijdschrift dat in de 20ste eeuw in een fictief Frans stadje gemaakt werd.
