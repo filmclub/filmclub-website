@@ -4,13 +4,13 @@ title: "The French Dispatch"
 date: 2021-10-31T20:45:00+02:00
 publishdate: 2021-10-22T20:14:26+02:00
 trailer: "TcPk2p0Zaw4"
-leden: [] 
+leden: ["ewa", "bdu"] 
 image: "posters/the-french-dispatch.jpg"
 draft: false
 ---
 
 ##### 13/11/2021 21:40
-##### TBD
+##### 23/11/2021 21:40
 
 [Aventure Cinema](https://cinema-aventure.be/catalogue/movie/?099ECCDF-B409-88D9-63E0-1C397D2C3209)
 

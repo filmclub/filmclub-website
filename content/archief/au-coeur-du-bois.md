@@ -4,7 +4,7 @@ title: "Au Coeur du Bois"
 date: 2020-11-16T21:30:00+02:00
 publishdate: 2020-11-07T20:07:54+02:00
 image: "posters/au-coeur-du-bois.jpg"
-leden: []
+leden: ["ewa", "bdu"]
 trailer: 
 draft: false
 archief: "false"
