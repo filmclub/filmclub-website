@@ -4,7 +4,7 @@ title: "The Power of the Dog"
 date: 2021-11-25T21:30:00+02:00
 publishdate: 2021-11-21T20:14:26+02:00
 trailer: "LRDPo0CHrko"
-leden: []
+leden: ["ewa", "bdu"]
 image: "posters/the-power-of-the-dog.jpg"
 draft: false
 ---
