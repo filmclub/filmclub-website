@@ -1,15 +1,15 @@
 ---
-number: 67
+number: 71
 title: "Lamb"
-date: 2021-12-07T19:00:00+02:00
-publishdate: 2021-10-25T20:14:26+02:00
+date: 2021-01-07T19:00:00+02:00
+publishdate: 2021-01-25T20:14:26+02:00
 trailer: "wfrvnETr1Z8"
 leden: [] 
 image: "posters/lamb.jpg"
 draft: false
 ---
 
-##### 07/12/2021 19:00
+##### Vanaf 05/01/2022
 
 [Galeries](https://galeries.be/en/lamb-europa-cinema-night/)
 
