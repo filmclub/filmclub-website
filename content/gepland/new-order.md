@@ -13,7 +13,7 @@ draft: false
 
 [Cinema Palace](https://cinema-palace.be/nl/film/new-order-nuevo-orden)
 
-Een dystopische revolutie gezien door de ogen van de 1%. De luxe bruiloft van een elite-koppel word
+Een dystopische revolutie gezien door de ogen van de 1%. De luxe bruiloft van een elite-koppel wordt
 wreed verstoord door gewelddadige opstandelingen.
 <!--more-->
 Binnen enkele etmalen kantelt een ogenschijnlijk gebalanceerde samenleving.
