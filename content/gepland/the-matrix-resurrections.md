@@ -9,7 +9,9 @@ image: "posters/the-matrix-resurrections.jpg"
 draft: false
 ---
 
-##### Vanaf 22/12/2021
+##### 28/12/2021 20:15
+
+[UGC De Brouckère](https://www.ugc.be/film.html?id=7927)
 
 Twintig jaar later... Neo leidt een normaal leven als Thomas A. Anderson in San Francisco
 waar zijn therapeut hem blauwe pillen voorschrijft.
