@@ -9,9 +9,9 @@ image: "posters/a-hero.jpg"
 draft: false
 ---
 
-##### TBD
+##### 22/12/2021 21:20
 
-[Cinema Palace](https://cinema-palace.be/nl/film/hero-un-heros)
+[Galeries](https://galeries.be/en/a-hero/)
 
 Rahim zit in de gevangenis vanwege schulden die hij niet kon terugbetalen.
 <!--more-->
