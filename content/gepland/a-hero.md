@@ -1,5 +1,5 @@
 ---
-number: 69
+number: 70
 title: "A Hero"
 date: 2021-11-27T21:30:00+02:00
 publishdate: 2021-11-21T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/a-hero.jpg"
 draft: false
 ---
 
-##### 22/12/2021 21:20
+##### 28/12/2021 21:20
 
 [Galeries](https://galeries.be/en/a-hero/)
 

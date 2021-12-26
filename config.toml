@@ -28,10 +28,4 @@ logo = "/images/logo.png"
     name = "Archief"
     weight = 150
     identifier = "archief"
-    url = "/archief"
-[[menu.main]]
-    name = "Blog"
-    weight = 200
-    identifier = "blog"
-    url = "/blog"
-    
+    url = "/archief"    
