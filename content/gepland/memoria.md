@@ -9,7 +9,7 @@ image: "posters/memoria.jpg"
 draft: false
 ---
 
-##### TBD
+##### 20/01/2021 21:30
 
 [Galeries](https://galeries.be/nl/memoria/)
 
