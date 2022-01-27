@@ -9,7 +9,9 @@ image: "posters/nightmare-alley.jpg"
 draft: false
 ---
 
-##### Vanaf 19/01/2022
+##### 27/01/2022 21:15
+
+[Cinema Palace](https://cinema-palace.be/nl/film/nightmare-alley)
 
 Stan Carlisle treedt in de kermiswereld van de jaren 1940 op als mentalist. 
 In een poging rijke toeschouwers op te lichten, besluit hij samen te
