@@ -9,7 +9,7 @@ image: "posters/compartment-n6.jpg"
 draft: false
 ---
 
-##### 02/02/2022 21:15
+##### TBD
 
 [Galeries](https://galeries.be/nl/compartiment-n6/)
 

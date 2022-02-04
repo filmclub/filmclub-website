@@ -4,7 +4,7 @@ title: "C'mon C'mon"
 date: 2022-02-02T21:15:00+02:00
 publishdate: 2021-11-25T20:14:26+02:00
 trailer: "kysKsNVmt6g"
-leden: [] 
+leden: ["bdu"] 
 image: "posters/cmon-cmon.jpg"
 draft: false
 ---
