@@ -9,7 +9,9 @@ image: "posters/drive-my-car.jpg"
 draft: false
 ---
 
-##### TBD
+##### 17/03/2022 20:25
+
+[Cinema Palace](https://cinema-palace.be/nl/film/drive-my-car)
 
  Een acteur en theaterdirecteur, nog herstellende van een persoonlijke tragedie,
  stemt ermee in om Oom Vanya op te voeren op een festival in Hiroshima.
