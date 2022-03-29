@@ -9,7 +9,7 @@ image: "posters/drive-my-car.jpg"
 draft: false
 ---
 
-##### 17/03/2022 20:25
+##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/drive-my-car)
 
