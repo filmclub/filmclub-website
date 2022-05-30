@@ -19,4 +19,4 @@ draft: false
  Zijn oudere broer heeft een mysterieuze trek op zijn gezicht. Hij staat op het punt Iran te
  verlaten en wordt vergezeld door zijn familie op deze afscheidsreis. Dierbare herinneringen aan het
  verleden worden afgewisseld met angsten voor de onbekende en onzekere toekomst: hoe kun je afscheid nemen?
-  
+ 
