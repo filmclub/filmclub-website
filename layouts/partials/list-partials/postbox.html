@@ -2,14 +2,14 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="{{ .URL }}">
+            <a href="{{ .Permalink }}">
                 {{with .Params.image}}
                     <img class="img-fluid" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
                 {{end}}                
             </a>
         </div>
         <div class="card-body">
-            <h2 class="card-title"><a class="text-dark" href="{{ .URL }}">#{{ .Params.number }} {{ .Title }}</a></h2>
+            <h2 class="card-title"><a class="text-dark" href="{{ .Permalink }}">#{{ .Params.number }} {{ .Title }}</a></h2>
             <h4 class="card-text">{{ .Summary }}</h4>            
         </div>
         <div class="card-footer bg-white">
