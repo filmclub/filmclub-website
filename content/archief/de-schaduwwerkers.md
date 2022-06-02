@@ -4,7 +4,7 @@ title: "De Schaduwwerkers"
 date: 2022-06-02T20:00:00+02:00
 publishdate: 2022-05-29T20:14:26+02:00
 trailer: ""
-leden: []
+leden: ["ewa", "bdu"]
 image: "posters/de-schaduwwerkers.jpg"
 draft: false
 ---
