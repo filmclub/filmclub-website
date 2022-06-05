@@ -9,7 +9,7 @@ image: "posters/top-gun-maverick.jpg"
 draft: false
 ---
 
-##### TBD
+##### 11/06/2022 19:45
 
 [Kinepolis](https://kinepolis.be/nl/films/top-gun-maverick)
 
