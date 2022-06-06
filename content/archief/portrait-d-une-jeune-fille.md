@@ -4,7 +4,7 @@ title: "Portrait d’une jeune fille de la fin des années 60 à Bruxelles"
 date: 2022-06-06T19:00:00+02:00
 publishdate: 2022-05-30T20:15:26+02:00
 trailer: ""
-leden: []
+leden: ["has", "bdu"]
 image: "posters/portrait-d-une-jeune-fille.jpg"
 draft: false
 ---
