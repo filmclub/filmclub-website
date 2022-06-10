@@ -4,7 +4,7 @@ title: "Crimes of the Future"
 date: 2022-06-02T21:40:00+02:00
 publishdate: 2022-05-30T20:14:26+02:00
 trailer: "v_bbLcJAHEo"
-leden: [] 
+leden: ["bdu"] 
 image: "posters/crimes-of-the-future.jpg"
 draft: false
 ---
