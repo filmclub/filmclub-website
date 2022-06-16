@@ -9,7 +9,7 @@ image: "posters/men.jpg"
 draft: false
 ---
 
-##### 16/06/2022 21:30
+##### TBD
 
 [Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?AE411950-3D4A-CCC2-A16F-4248B8FFACE7)
 
