@@ -1,17 +1,17 @@
 ---
-number: 85
+number: 83
 title: "Top Gun: Maverick"
-date: 2022-06-21T19:30:00+02:00
+date: 2022-06-26T16:30:00+02:00
 publishdate: 2022-02-01T20:14:26+02:00
 trailer: "giXco2jaZ_4"
-leden: []
+leden: ["has"]
 image: "posters/top-gun-maverick.jpg"
 draft: false
 ---
 
-##### TBD
+##### 26/06/2022 16:30
 
-[Kinepolis](https://kinepolis.be/nl/films/top-gun-maverick)
+[UGC De Brouckère](https://www.ugc.be/film.html?id=8192)
 
 Na meer dan dertig jaar dienst als een van de Top Gun-piloten voelt Pete “Maverick” Mitchell
 (Tom Cruise) zich nog altijd op zijn plek bij de Marine.
