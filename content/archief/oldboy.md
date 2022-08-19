@@ -4,7 +4,7 @@ title: "Oldboy"
 date: 2022-08-12T19:00:00+02:00
 publishdate: 2021-11-21T20:14:26+02:00
 trailer: "2HkjrJ6IK5E"
-leden: []
+leden: ["bdu"]
 image: "posters/oldboy.jpg"
 draft: false
 ---

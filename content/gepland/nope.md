@@ -1,7 +1,7 @@
 ---
 number: 86
 title: "Nope"
-date: 2022-08-18T21:30:00+02:00
+date: 2022-08-22T21:30:00+02:00
 publishdate: 2021-11-21T20:14:26+02:00
 trailer: "HUgmq_8PlRY"
 leden: []
@@ -9,7 +9,7 @@ image: "posters/nope.jpg"
 draft: false
 ---
 
-##### TBD
+##### 22/08/2022 19:15
 
 [UGC De Brouckère](https://www.ugc.be/film.html?id=8326)
 
