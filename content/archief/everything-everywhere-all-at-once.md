@@ -4,12 +4,13 @@ title: "Everything Everywhere All At Once"
 date: 2022-06-24T21:00:00+02:00
 publishdate: 2022-06-21T20:14:26+02:00
 trailer: "3rODVhHbq-k"
-leden: ["ewa", "bdu"]
+leden: ["ewa", "bdu", "nam", "has"]
 image: "posters/everything-everywhere-all-at-once.jpg"
 draft: false
 ---
 
 ##### 24/06/2022 21:00
+##### 01/09/2022 21:15
 
 [Cinema Palace](https://cinema-palace.be/nl/film/briff-everything-everywhere-all-once)
 
