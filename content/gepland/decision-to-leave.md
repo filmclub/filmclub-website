@@ -15,5 +15,5 @@ draft: false
 
 Een ijverige detective (Park Hye-Il) onderzoekt een mogelijke moord.
 De weduwe van de vermoorde man is hoofdverdachte in de zaak,
-voor wij hij romantische gevoelens krijgt.
+voor wie hij romantische gevoelens krijgt.
  <!--more-->
