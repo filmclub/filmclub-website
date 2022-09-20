@@ -4,7 +4,7 @@ title: "Decision to Leave"
 date: 2022-09-19T21:12:00+02:00
 publishdate: 2021-11-21T20:14:26+02:00
 trailer: "9aMHyTqvIvU"
-leden: []
+leden: ["bdu"]
 image: "posters/decision-to-leave.jpg"
 draft: false
 ---
