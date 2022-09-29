@@ -4,7 +4,7 @@ title: "Moonage Daydream"
 date: 2022-09-29T21:15:00+02:00
 publishdate: 2022-08-21T20:14:26+02:00
 trailer: "pzitR7tUr0c"
-leden: []
+leden: ["aba", "tpi", "bdu"]
 image: "posters/moonage-daydream.jpg"
 draft: false
 ---
