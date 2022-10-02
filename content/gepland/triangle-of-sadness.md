@@ -9,7 +9,7 @@ image: "posters/triangle-of-sadness.jpg"
 draft: false
 ---
 
-##### TBD
+##### 04/10/2022 20:00
 
 [Cinema Palace](https://cinema-palace.be/nl/film/triangle-sadness)
 
