@@ -4,7 +4,7 @@ title: "Aloners"
 date: 2022-10-05T21:00:00+02:00
 publishdate: 2022-10-01T20:14:26+02:00
 trailer: "vXbuYarVaEE"
-leden: []
+leden: ["bdu"]
 image: "posters/aloners.jpg"
 draft: false
 ---
