@@ -4,7 +4,7 @@ title: "Triangle of Sadness"
 date: 2022-10-03T21:15:00+02:00
 publishdate: 2022-09-21T20:14:26+02:00
 trailer: "VDvfFIZQIuQ"
-leden: []
+leden: ["has", "bdu"]
 image: "posters/triangle-of-sadness.jpg"
 draft: false
 ---
