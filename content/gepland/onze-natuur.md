@@ -9,7 +9,7 @@ image: "posters/onze-natuur.jpg"
 draft: false
 ---
 
-##### 12/11/2022 20:00
+##### TBD
 
 [Bozar](https://www.bozar.be/nl/kalender/onze-natuur-de-film-live-concert)
 
