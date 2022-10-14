@@ -4,7 +4,7 @@ title: "Nanny"
 date: 2022-10-13T21:00:00+02:00
 publishdate: 2022-10-10T20:14:26+02:00
 trailer: "iBsqjZSkCjQ"
-leden: []
+leden: ["bdu"]
 image: "posters/nanny.jpg"
 draft: false
 ---
