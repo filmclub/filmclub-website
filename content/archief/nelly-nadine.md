@@ -4,7 +4,7 @@ title: "Nelly & Nadine"
 date: 2022-10-20T11:30:00+02:00
 publishdate: 2022-10-19T20:14:26+02:00
 trailer: "6cVi0gwobeg"
-leden: []
+leden: ["bdu"]
 image: "posters/nelly-nadine.jpg"
 draft: false
 ---
