@@ -9,7 +9,7 @@ image: "posters/holy-spider.jpg"
 draft: false
 ---
 
-##### TBD
+##### Release 26/10/2022
 
 [Galeries](https://galeries.be/nl/premiere-holy-spider/)
 
