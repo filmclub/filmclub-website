@@ -4,7 +4,7 @@ title: "R.M.N."
 date: 2022-10-18T21:15:00+02:00
 publishdate: 2022-10-17T20:14:26+02:00
 trailer: "btBzAleR1SM"
-leden: []
+leden: ["bdu"]
 image: "posters/rmn.jpg"
 draft: false
 ---
