@@ -9,7 +9,7 @@ image: "posters/rmn.jpg"
 draft: false
 ---
 
-##### TBD
+##### 24/10/2022 21:35
 
 [Cinema Palace](https://cinema-palace.be/nl/film/rmn)
 
