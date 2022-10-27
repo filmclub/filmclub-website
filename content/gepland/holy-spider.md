@@ -1,5 +1,5 @@
 ---
-number: 
+number: 96
 title: "Holy Spider"
 date: 2022-10-08T21:15:00+02:00
 publishdate: 2022-09-29T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/holy-spider.jpg"
 draft: false
 ---
 
-##### Release 26/10/2022
+##### TBD
 
 [Galeries](https://galeries.be/nl/premiere-holy-spider/)
 

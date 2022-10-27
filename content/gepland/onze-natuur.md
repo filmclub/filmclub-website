@@ -11,7 +11,7 @@ draft: false
 
 ##### TBD
 
-[Bozar](https://www.bozar.be/nl/kalender/onze-natuur-de-film-live-concert)
+[TBD]()
 
 Onze Natuur, De Film is een ambitieuze natuurdocumentaire over de natuur in onze achtertuin.
  <!--more-->
