@@ -4,7 +4,7 @@ title: "Rebel"
 date: 2022-10-08T21:15:00+02:00
 publishdate: 2022-09-29T20:14:26+02:00
 trailer: "sOSCrwE6VkM"
-leden: []
+leden: ["has", "bdu"]
 image: "posters/rebel.jpg"
 draft: false
 ---
