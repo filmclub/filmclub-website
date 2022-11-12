@@ -9,7 +9,7 @@ image: "posters/rebel.jpg"
 draft: false
 ---
 
-##### TBD
+##### 12/11/2022 21:10
 
 [Cinema Palace](https://cinema-palace.be/nl/film/rebel)
 
