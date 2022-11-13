@@ -1,5 +1,5 @@
 ---
-number: 
+number: 100
 title: "Boy from Heaven"
 date: 2022-11-20T21:15:00+02:00
 publishdate: 2022-10-31T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/boy-from-heaven.jpg"
 draft: false
 ---
 
-##### Release 23/11/2022
+##### Vanaf 23/11/2022
 
 [Galeries](https://galeries.be/nl/boy-from-heaven/)
 
