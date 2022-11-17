@@ -9,9 +9,9 @@ image: "posters/dreaming-walls.jpg"
 draft: false
 ---
 
-##### TBD
+##### 17/11/2022 18:30
 
-[TBD]()
+[Cinema Palace](https://cinema-palace.be/nl/film/dreaming-walls)
 
 Het Chelsea Hotel, een icoon van de tegencultuur van de jaren 1960, is al meer dan een eeuw een
 toevluchtsoord en legende voor creatieve mensen.
