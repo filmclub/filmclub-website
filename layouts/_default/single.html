@@ -57,11 +57,13 @@
                     
                     <!-- Aanwezig -->
                     <div class="article-post">
+                    {{ if gt (len .Params.leden) 0}}
                         Aanwezig:
-                     {{ with .Params.leden }}
+                    {{end}}
+                    {{ with .Params.leden }}
                        {{ range . }}
                        <a href="{{ "leden/" | absURL }}{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
+                       {{ end }}
                     {{ end }}
                     </div> 
                     <br>
