@@ -1,5 +1,5 @@
 ---
-number: 100
+number: 99
 title: "EO"
 date: 2022-11-24T21:15:00+02:00
 publishdate: 2022-11-18T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/eo.jpg"
 draft: false
 ---
 
-##### 24/11/2022
+##### 24/11/2022 21:10
 
 [Galeries](https://galeries.be/nl/eo/)
 
