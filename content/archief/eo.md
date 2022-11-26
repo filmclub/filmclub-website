@@ -4,7 +4,7 @@ title: "EO"
 date: 2022-11-24T21:15:00+02:00
 publishdate: 2022-11-18T20:14:26+02:00
 trailer: "cNodDgOHq78"
-leden: []
+leden: ["ewa", "bdu"]
 image: "posters/eo.jpg"
 draft: false
 ---
