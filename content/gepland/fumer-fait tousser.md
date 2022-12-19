@@ -1,5 +1,5 @@
 ---
-number: 103
+number: 102
 title: "Fumer Fait Tousser"
 date: 2022-12-01T21:15:00+02:00
 publishdate: 2022-10-17T20:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/fumer-fait-tousser.jpg"
 draft: false
 ---
 
-##### Vanaf 30/11/2022
+##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/fumer-fait-tousser)
 
