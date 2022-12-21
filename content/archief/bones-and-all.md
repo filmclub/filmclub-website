@@ -4,7 +4,7 @@ title: "Bones and All"
 date: 2022-12-20T21:15:00+02:00
 publishdate: 2022-11-20T20:14:26+02:00
 trailer: "0Nu7Z9AxGNg"
-leden: []
+leden: ["bdu"]
 image: "posters/bones-and-all.jpg"
 draft: false
 ---
