@@ -9,7 +9,7 @@ image: "posters/mulholland-drive.jpg"
 draft: false
 ---
 
-##### TBD
+##### 23/12/2022 20:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/mulholland-drive-4k-restored-copy)
 
