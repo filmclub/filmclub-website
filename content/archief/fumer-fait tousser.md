@@ -4,7 +4,7 @@ title: "Fumer Fait Tousser"
 date: 2022-12-23T13:45:00+02:00
 publishdate: 2022-10-17T20:14:26+02:00
 trailer: "pC9uHlEHnRo"
-leden: []
+leden: ["nam", "bdu"]
 image: "posters/fumer-fait-tousser.jpg"
 draft: false
 ---
