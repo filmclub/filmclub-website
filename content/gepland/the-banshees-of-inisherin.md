@@ -9,9 +9,9 @@ image: "posters/the-banshees-of-inisherin.jpg"
 draft: false
 ---
 
-##### TBD
+##### 18/01/2023 21:15
 
-[Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?D57E45F1-F386-D72A-6635-D1EB4368F5DA)
+[Galeries](https://galeries.be/fr/the-banshees-of-inisherin/)
 
  Padraic is sinds mensenheugenis beste maatjes met Colm. Ze wonen op een eiland
  aan de westkust van Ierland.
