@@ -3,13 +3,13 @@ number: 105
 title: "Joyland"
 date: 2022-12-30T21:15:00+02:00
 publishdate: 2022-12-24T20:14:26+02:00
-trailer: ""
+trailer: "FU8a4_VtMAg"
 leden: ["bdu"]
 image: "posters/joyland.jpg"
 draft: false
 ---
 
-##### TBD
+##### 19/01/2022 21:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/joyland)
 
