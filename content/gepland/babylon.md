@@ -9,7 +9,7 @@ image: "posters/babylon.jpg"
 draft: false
 ---
 
-##### TBD
+##### 25/01/2023 20:15
 
 [Galeries](https://galeries.be/nl/babylon/)
 
