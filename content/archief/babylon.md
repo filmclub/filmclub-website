@@ -4,7 +4,7 @@ title: "Babylon"
 date: 2023-01-24T20:15:00+02:00
 publishdate: 2023-01-21T20:14:26+02:00
 trailer: "IPxGzF8dnVw"
-leden: []
+leden: ["bdu"]
 image: "posters/babylon.jpg"
 draft: false
 ---
