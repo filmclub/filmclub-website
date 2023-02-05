@@ -1,7 +1,7 @@
 ---
 number: 107
 title: "TÁR"
-date: 2023-01-29T20:15:00+02:00
+date: 2023-02-06T20:45:00+02:00
 publishdate: 2023-01-22T20:14:26+02:00
 trailer: "qnBmqdp8Hts"
 leden: []
@@ -9,9 +9,9 @@ image: "posters/tar.jpg"
 draft: false
 ---
 
-##### TBD
+##### 06/02/2023 20:45
 
-[Galeries](https://galeries.be/nl/tar/)
+[Cinema Palace](https://cinema-palace.be/nl/film/tar)
 
 Lydia Tár, een dirigente op het hoogtepunt van haar carrière,
 bereidt een langverwachte uitvoering van Mahlers Vijfde Symfonie voor.
