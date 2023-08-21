@@ -10,10 +10,8 @@ draft: false
 ---
 
 ##### 17/07/2023 20:30
-##### TBD
 
 [Kinepolis](https://kinepolis.be/nl/movies/detail/23479/HO00008642/0/oppenheimer)  
-[Cinema Palace](https://cinema-palace.be/fr/film/oppenheimer)
 
 Een biopic over Julius Robert Oppenheimer, een briljante onderzoeker met een
 voorliefde voor cultuur en humanisme, beroemd omdat hij de ontwikkeling
