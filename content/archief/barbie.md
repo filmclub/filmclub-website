@@ -4,7 +4,7 @@ title: "Barbie"
 date: 2023-07-28T21:40:00+02:00
 publishdate: 2023-07-01T21:14:26+02:00
 trailer: "IfEla0bg1Uc"
-leden: ["ewo", "fvi", "has"]
+leden: ["ewa", "fvi", "has"]
 image: "posters/barbie.jpg"
 draft: false
 ---

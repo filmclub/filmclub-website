@@ -4,7 +4,7 @@ title: "Asteroid City"
 date: 2023-06-17T21:40:00+02:00
 publishdate: 2023-06-01T21:14:26+02:00
 trailer: "9FXCSXuGTF4"
-leden: ["ewo"]
+leden: ["ewa"]
 image: "posters/asteroid-city.jpg"
 draft: false
 ---
