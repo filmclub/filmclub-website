@@ -4,7 +4,7 @@ title: "All The Beauty and The Bloodshed"
 date: 2023-06-17T21:40:00+02:00
 publishdate: 2023-06-01T21:14:26+02:00
 trailer: "rCiTHgUHvmU"
-leden: []
+leden: ["bdu"]
 image: "posters/all-the-beauty-and-the-bloodshed.jpg"
 draft: false
 ---
