@@ -4,7 +4,7 @@ title: "Ghost Dog: The Way of the Samurai"
 date: 2023-08-28T21:25:00+02:00
 publishdate: 2023-08-20T21:14:26+02:00
 trailer: "uLHeMzjQ29E"
-leden: []
+leden: ["bdu"]
 image: "posters/ghost-dog-the-way-of-the-samurai.jpg"
 draft: false
 ---
