@@ -9,7 +9,7 @@ image: "posters/anatomie-d-une-chute.jpg"
 draft: false
 ---
 
-##### TBD
+##### 29/09/2023 20:20
 
 [Cinema Palace](https://cinema-palace.be/nl/film/anatomie-dune-chute)
 
