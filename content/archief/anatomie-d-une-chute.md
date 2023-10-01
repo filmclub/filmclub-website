@@ -4,7 +4,7 @@ title: "Anatomie d'une Chute"
 date: 2023-08-30T09:00:00+02:00
 publishdate: 2023-08-22T21:14:26+02:00
 trailer: "4vomBbFSs8g"
-leden: ["bdu"]
+leden: ["bdu", "has"]
 image: "posters/anatomie-d-une-chute.jpg"
 draft: false
 ---
