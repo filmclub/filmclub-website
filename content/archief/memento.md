@@ -4,7 +4,7 @@ title: "Memento"
 date: 2023-10-05T09:00:00+02:00
 publishdate: 2023-09-25T21:14:26+02:00
 trailer: "4CV41hoyS8A"
-leden: []
+leden: ["bdu"]
 image: "posters/memento.jpg"
 draft: false
 ---
