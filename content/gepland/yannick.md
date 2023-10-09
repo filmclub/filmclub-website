@@ -9,7 +9,7 @@ image: "posters/yannick.jpg"
 draft: false
 ---
 
-##### TBD
+##### 09/10/2023 15:50
 
 [Cinema Avonture](https://cinema-aventure.be/catalogue/movie/?20E872BC-B15D-A5A9-F9DB-2436F392EC6E)
 
