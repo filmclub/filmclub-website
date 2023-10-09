@@ -4,7 +4,7 @@ title: "Yannick"
 date: 2023-09-29T09:00:00+02:00
 publishdate: 2023-09-25T21:14:26+02:00
 trailer: "wq85VKrV7C4"
-leden: []
+leden: ["bdu", "nam"]
 image: "posters/yannick.jpg"
 draft: false
 ---
