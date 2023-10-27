@@ -4,7 +4,7 @@ title: "L'Autre Laurens"
 date: 2023-10-13T09:00:00+02:00
 publishdate: 2023-09-25T21:14:26+02:00
 trailer: "_tauDkisiFU"
-leden: []
+leden: ["bdu"]
 image: "posters/l-autre-laurens.jpg"
 draft: false
 ---
