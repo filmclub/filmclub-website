@@ -9,7 +9,7 @@ image: "posters/l-autre-laurens.jpg"
 draft: false
 ---
 
-##### TBD
+##### 27/10/2023 21:15
 
 [Galeries](https://galeries.be/en/lautre-laurens/)
 
@@ -19,4 +19,3 @@ bij hem thuis arriveert.
 <!--more-->
 Het jonge meisje heeft twijfels over de dood door een ongeluk van
 haar vader en vraagt hem op onderzoek uit te gaan.
-
