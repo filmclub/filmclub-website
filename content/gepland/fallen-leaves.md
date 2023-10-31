@@ -11,7 +11,7 @@ draft: false
 
 ##### TBD
 
-[Cinema Palace]()
+[Cinema Palace](https://cinema-palace.be/nl/film/fallen-leaves-les-feuilles-mortes)
 
 Twee eenzame zielen treffen elkaar per toeval tijdens een doorsnee nacht in Helsinki.
 <!--more-->
