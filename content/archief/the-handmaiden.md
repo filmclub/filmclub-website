@@ -4,7 +4,7 @@ title: "The Handmaiden"
 date: 2023-10-31T21:00:00+02:00
 publishdate: 2023-10-11T21:14:26+02:00
 trailer: "whldChqCsYk"
-leden: []
+leden: ["bdu"]
 image: "posters/the-handmaiden.jpg"
 draft: false
 ---
