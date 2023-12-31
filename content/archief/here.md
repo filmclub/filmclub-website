@@ -10,7 +10,6 @@ draft: false
 ---
 
 ##### 15/10/2023 20:00
-##### TBD
 
 [Film Fest Gent](https://www.filmfestival.be/nl/film/here)
 
