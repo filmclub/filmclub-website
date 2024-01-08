@@ -4,7 +4,7 @@ title: "Wonka"
 date: 2024-01-06T17:00:00+02:00
 publishdate: 2024-01-01T21:14:26+02:00
 trailer: "otNh9bTjXWg"
-leden: []
+leden: ["ida", "fda", "nrd", "bdu"]
 image: "posters/wonka.jpg"
 draft: false
 ---

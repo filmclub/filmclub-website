@@ -4,7 +4,7 @@ title: "Conann"
 date: 2024-01-06T21:15:00+02:00
 publishdate: 2023-12-01T21:14:26+02:00
 trailer: "qQd080up3o4"
-leden: []
+leden: ["bdu"]
 image: "posters/conann.jpg"
 draft: false
 ---
