@@ -1,17 +1,17 @@
 ---
-number: 127
+number: 126
 title: "Poor Things"
-date: 2024-01-13T17:00:00+02:00
+date: 2024-02-04T21:30:00+02:00
 publishdate: 2024-01-04T22:14:26+02:00
 trailer: "MPLrC_UzFvc"
-leden: []
+leden: ["bdu"]
 image: "posters/poor-things.jpg"
 draft: false
 ---
 
-##### TBD
+##### 04/02/2024 21:30
 
-[Cinema Palace](https://cinema-palace.be/nl/film/poor-things)
+[Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?4A48BE9E-1797-E498-6DDB-BF10BA368021)
 
 Een jonge vrouw, weer tot leven gewekt door een onorthodoxe wetenschapper,
 vertrekt met een advocaat op een wervelend avontuur door de continenten.
