@@ -4,7 +4,7 @@ title: "La Strada"
 date: 2024-03-03T21:15:00+02:00
 publishdate: 2024-03-01T22:14:26+02:00
 trailer: "jRHCi3Awkmg"
-leden: []
+leden: ["bdu"]
 image: "posters/la-strada.jpg"
 draft: false
 ---
