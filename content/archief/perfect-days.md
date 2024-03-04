@@ -4,7 +4,7 @@ title: "Perfect Days"
 date: 2024-02-20T21:30:00+02:00
 publishdate: 2024-02-15T22:14:26+02:00
 trailer: "N4uOU1zorjE&t"
-leden: []
+leden: ["bdu"]
 image: "posters/perfect-days.jpg"
 draft: false
 ---
