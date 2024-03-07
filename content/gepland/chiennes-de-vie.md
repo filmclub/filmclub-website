@@ -10,7 +10,7 @@ draft: false
 ---
 
 ##### 06/03/2024 21:30
-##### TBD
+##### TBD (Release 20/03)
 
 [Cinema Nova (Offscreen)](https://www.offscreen.be/nl/offscreen-film-festival-2024/offscreenings-2024/chiennes-de-vies-2nd-screening)
 
