@@ -4,7 +4,7 @@ title: "Kim's Video"
 date: 2024-03-13T21:30:00+02:00
 publishdate: 2024-03-01T22:14:26+02:00
 trailer: ""
-leden: []
+leden: ["bdu"]
 image: "posters/kims-video.jpg"
 draft: false
 ---
