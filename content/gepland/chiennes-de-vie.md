@@ -10,9 +10,10 @@ draft: false
 ---
 
 ##### 06/03/2024 21:30
-##### TBD (Release 20/03)
+##### TBD
 
 [Cinema Nova (Offscreen)](https://www.offscreen.be/nl/offscreen-film-festival-2024/offscreenings-2024/chiennes-de-vies-2nd-screening)
+[Cinema Palace](https://cinema-palace.be/nl/film/chiennes-de-vies)
 
 Een man denkt dat zijn chihuahua hem probeert te vermoorden.
 <!--more-->
