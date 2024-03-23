@@ -6,7 +6,7 @@ publishdate: 2024-03-01T22:14:26+02:00
 trailer: ""
 leden: []
 image: "posters/stopmotion.jpg"
-draft: false
+draft: true
 ---
 
 ##### 23/03/2024 19:00
