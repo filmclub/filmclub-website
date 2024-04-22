@@ -4,7 +4,7 @@ title: "Civil War"
 date: 2024-04-22T21:30:00+02:00
 publishdate: 2024-04-01T22:14:26+02:00
 trailer: "fxteQp6hm64"
-leden: []
+leden: ["bdu"]
 image: "posters/civil-war.jpg"
 draft: false
 ---
