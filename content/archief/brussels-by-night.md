@@ -4,7 +4,7 @@ title: "Brussels by Night"
 date: 2024-04-25T19:00:00+02:00
 publishdate: 2024-04-02T22:14:26+02:00
 trailer: "2CRorB0KxuM"
-leden: []
+leden: ["bdu"]
 image: "posters/brussels-by-night.jpg"
 draft: false
 ---
