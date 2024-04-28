@@ -4,7 +4,7 @@ title: "True Stories"
 date: 2024-04-27T22:00:00+02:00
 publishdate: 2024-04-15T22:14:26+02:00
 trailer: "mhRgCsQf3CU"
-leden: []
+leden: ["bdu"]
 image: "posters/true-stories.jpg"
 draft: false
 ---
