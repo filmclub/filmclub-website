@@ -6,7 +6,7 @@ publishdate: 2024-04-25T22:14:26+02:00
 trailer: "-rjMwSTeVeo"
 leden: []
 image: "posters/stop-making-sense.jpg"
-draft: false
+draft: true
 ---
 
 ##### 10/05/2024 20:00
