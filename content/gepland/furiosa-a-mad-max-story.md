@@ -6,7 +6,7 @@ publishdate: 2024-05-05T22:14:26+02:00
 trailer: "XJMuhwVlca4"
 leden: []
 image: "posters/furiosa-a-mad-max-story.jpg"
-draft: true
+draft: false
 ---
 
 ##### 21/05/2024 20:00
