@@ -1,7 +1,7 @@
 ---
-number: 138
+number: 139
 title: "Apple Cider Vinegar"
-date: 2024-05-10T20:00:00+02:00
+date: 2024-05-22T21:00:00+02:00
 publishdate: 2024-04-25T22:14:26+02:00
 trailer: "qHZ4j5n14xQ"
 leden: []
@@ -9,7 +9,7 @@ image: "posters/apple-cider-vinegar.jpg"
 draft: false
 ---
 
-##### TBD
+##### 22/05/2024 21:00
 
 [Cinema Palace](https://cinema-palace.be/nl/film/apple-cider-vinegar)
 

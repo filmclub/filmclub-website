@@ -1,7 +1,7 @@
 ---
-number: 139
+number: 142
 title: "Michel Vay"
-date: 2024-05-17T22:00:00+02:00
+date: 2024-05-31T22:00:00+02:00
 publishdate: 2024-04-25T22:14:26+02:00
 trailer: "tC4MKxIBjHc"
 leden: []
@@ -9,7 +9,7 @@ image: "posters/michel-vay.jpg"
 draft: false
 ---
 
-##### 17/05/2024 22:00
+##### 31/05/2024 22:00
 
 [Cinema Nova](https://www.nova-cinema.org/prog/2024/197-super-nova/michel-vay-co/)
 
