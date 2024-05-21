@@ -4,7 +4,7 @@ title: "Furiosa: A Mad Max Saga"
 date: 2024-05-24T20:00:00+02:00
 publishdate: 2024-05-05T22:14:26+02:00
 trailer: "XJMuhwVlca4"
-leden: []
+leden: ["jva", "bdu"]
 image: "posters/furiosa-a-mad-max-story.jpg"
 draft: false
 ---
