@@ -4,7 +4,7 @@ title: "Le Deuxième Acte"
 date: 2024-05-28T21:30:00+02:00
 publishdate: 2024-04-25T22:14:26+02:00
 trailer: "NDQ3tUyMSSo"
-leden: []
+leden: ["bdu"]
 image: "posters/le-deuxieme-acte.jpg"
 draft: false
 ---
