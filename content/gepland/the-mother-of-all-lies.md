@@ -1,7 +1,7 @@
 ---
-number: 140
+number: 142
 title: "The Mother of all Lies"
-date: 2024-05-27T14:00:00+02:00
+date: 2024-06-03T21:20:00+02:00
 publishdate: 2024-04-25T22:14:26+02:00
 trailer: "rcnXNCP5fC4"
 leden: []
@@ -9,7 +9,7 @@ image: "posters/the-mother-of-all-lies.jpg"
 draft: false
 ---
 
-##### 27/05/2024 14:00
+##### 03/06/2024 21:20
 
 [Cinema Palace](https://cinema-palace.be/nl/film/mother-all-lies)
 

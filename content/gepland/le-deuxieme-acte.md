@@ -1,7 +1,7 @@
 ---
-number: 141
+number: 140
 title: "Le Deuxième Acte"
-date: 2024-05-17T22:00:00+02:00
+date: 2024-05-28T21:30:00+02:00
 publishdate: 2024-04-25T22:14:26+02:00
 trailer: "NDQ3tUyMSSo"
 leden: []
@@ -9,7 +9,7 @@ image: "posters/le-deuxieme-acte.jpg"
 draft: false
 ---
 
-##### TBD
+##### 28/05/2024 21:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/le-deuxieme-acte-0)
 
