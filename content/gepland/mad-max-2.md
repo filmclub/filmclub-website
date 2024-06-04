@@ -9,7 +9,7 @@ image: "posters/mad-max-2.jpg"
 draft: false
 ---
 
-##### 09/06/2024 21:15
+##### 07/06/2024 21:15
 
 [Cinematek](https://cinematek.be/screening/mad-max-2)
 
