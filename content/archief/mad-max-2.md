@@ -4,7 +4,7 @@ title: "Mad Max 2"
 date: 2024-06-07T21:15:00+02:00
 publishdate: 2024-06-01T22:14:26+02:00
 trailer: "Igj5RZsFsOs"
-leden: []
+leden: ["bdu"]
 image: "posters/mad-max-2.jpg"
 draft: false
 ---
