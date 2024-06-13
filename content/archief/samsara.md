@@ -1,17 +1,17 @@
 ---
 number: 144
 title: "Samsara"
-date: 2024-06-10T21:10:00+02:00
+date: 2024-06-12T21:30:00+02:00
 publishdate: 2024-06-01T22:14:26+02:00
 trailer: "LM7pn7Drq_s"
-leden: []
+leden: ["bdu"]
 image: "posters/samsara.jpg"
 draft: false
 ---
 
-##### 10/06/2024 21:10
+##### 12/06/2024 21:30
 
-[Galeries](https://galeries.be/nl/expat-cinema-samsara/)
+[Galeries](https://galeries.be/nl/samsara/)
 
 Elke ochtend bezoekt een boeddhistische tiener het huis van een oudere vrouw om haar
 Het Tibetaanse Dodenboek voor te lezen; een gids voor de reis tussen de dood
