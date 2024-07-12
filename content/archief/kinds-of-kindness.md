@@ -4,14 +4,14 @@ title: "Kinds of Kindness"
 date: 2024-06-26T21:00:00+02:00
 publishdate: 2024-06-05T22:14:26+02:00
 trailer: "lwk_zJgGoFI"
-leden: []
+leden: ["bdu"]
 image: "posters/kinds-of-kindness.jpg"
 draft: false
 ---
 
-##### TBD
+##### 11/07/2024 20:50
 
-[Cinema Palace](https://cinema-palace.be/nl/film/kinds-kindness)
+[Cinema Aventure](https://cinema-aventure.be/catalogue/movie/?BCE18B41-3E1F-F070-0918-2DEE3E7C97D4)
 
 Een man zonder keuzes probeert controle te krijgen over zijn eigen leven.
 <!--more-->
