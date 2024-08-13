@@ -4,7 +4,7 @@ title: "Dogtooth"
 date: 2024-08-12T14:15:00+02:00
 publishdate: 2024-08-05T22:14:26+02:00
 trailer: "yQdjxQN4ieg"
-leden: []
+leden: ["bdu"]
 image: "posters/dogtooth.jpg"
 draft: false
 ---
