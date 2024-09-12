@@ -4,7 +4,7 @@ title: "Alien Romulus"
 date: 2024-09-09T21:20:00+02:00
 publishdate: 2024-08-05T22:14:26+02:00
 trailer: "OzY2r2JXsDM"
-leden: []
+leden: ["gam", "bdu"]
 image: "posters/alien-romulus.jpg"
 draft: false
 ---
