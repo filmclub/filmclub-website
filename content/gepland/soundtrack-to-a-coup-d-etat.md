@@ -6,7 +6,7 @@ publishdate: 2024-09-09T22:14:26+02:00
 trailer: "_gK0ZXzSVj0"
 leden: []
 image: "posters/soundtrack-to-a-coup-d-etat.jpg"
-draft: true
+draft: false
 ---
 
 ##### 17/09/2024 21:10
