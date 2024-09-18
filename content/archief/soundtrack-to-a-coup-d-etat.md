@@ -4,7 +4,7 @@ title: "Soundtrack to a Coup d'État"
 date: 2024-09-17T21:10:00+02:00
 publishdate: 2024-09-09T22:14:26+02:00
 trailer: "_gK0ZXzSVj0"
-leden: []
+leden: ["bdu"]
 image: "posters/soundtrack-to-a-coup-d-etat.jpg"
 draft: false
 ---
