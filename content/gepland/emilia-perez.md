@@ -9,7 +9,7 @@ image: "posters/emilia-perez.jpg"
 draft: false
 ---
 
-##### TBD
+##### 19/09/2024 21:00
 
 [Cinema Palace](https://cinema-palace.be/nl/film/emilia-perez)
 
