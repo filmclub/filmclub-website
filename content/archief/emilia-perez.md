@@ -4,7 +4,7 @@ title: "Emilia Perez"
 date: 2024-09-14T20:30:00+02:00
 publishdate: 2024-09-11T22:14:26+02:00
 trailer: "Aj8pWdm6ZCE"
-leden: []
+leden: ["bdu"]
 image: "posters/emilia-perez.jpg"
 draft: false
 ---
