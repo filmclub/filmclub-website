@@ -4,7 +4,7 @@ title: "J'aime la vie"
 date: 2024-09-26T20:00:00+02:00
 publishdate: 2024-09-15T22:14:26+02:00
 trailer: "HSiHMNxJRJM"
-leden: []
+leden: ["ewa"]
 image: "posters/jaime-la-vie.jpg"
 draft: false
 ---
