@@ -1,15 +1,15 @@
 ---
 number: 153
 title: "Dahomey"
-date: 2024-09-27T20:15:00+02:00
+date: 2024-09-30T15:55:00+02:00
 publishdate: 2024-09-22T22:14:26+02:00
 trailer: "bbpBJCDwzGA"
-leden: []
+leden: ["bdu"]
 image: "posters/dahomey.jpg"
 draft: false
 ---
 
-##### TBD
+##### 30/09/2024 15:55
 
 [Galeries](https://galeries.be/nl/dahomey/)
 
