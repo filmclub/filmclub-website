@@ -1,5 +1,5 @@
 ---
-number: 156
+number: 158
 title: "Misericorde"
 date: 2024-10-21T20:30:00+02:00
 publishdate: 2024-10-01T22:14:26+02:00
@@ -9,7 +9,7 @@ image: "posters/misericorde.jpg"
 draft: false
 ---
 
-##### 12/11/2024 21:30
+##### TBD
 
 [Cinema Palace](https://cinema-palace.be/nl/film/misericorde)
 
