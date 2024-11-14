@@ -9,7 +9,7 @@ image: "posters/stalker.jpg"
 draft: false
 ---
 
-##### 20/11/2024 21:00
+##### 24/11/2024 21:00
 
 [Cinematek](https://cinematek.be/2024-11-09-20-30/stalker)
 
