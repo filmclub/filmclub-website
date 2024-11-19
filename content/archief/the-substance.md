@@ -4,7 +4,7 @@ title: "The Substance"
 date: 2024-11-19T21:10:00+02:00
 publishdate: 2024-10-01T22:14:26+02:00
 trailer: "XUMQvW25rkM"
-leden: []
+leden: ["ewa", "gam", "jva", "bdu"]
 image: "posters/the-substance.jpg"
 draft: false
 ---
