@@ -1,15 +1,15 @@
 ---
-number: 160
+number: 158
 title: "kneecap"
 date: 2024-11-21T20:30:00+02:00
 publishdate: 2024-10-01T22:14:26+02:00
 trailer: "g_hCJytsltM"
-leden: []
+leden: ["bdu"]
 image: "posters/kneecap.jpg"
 draft: false
 ---
 
-##### TBD
+##### 03/12/2024 21:15
 
 [Galeries](https://galeries.be/nl/kneecap/)
 
