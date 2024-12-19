@@ -4,7 +4,7 @@ title: "Animale"
 date: 2024-12-18T21:15:00+02:00
 publishdate: 2024-12-01T22:14:26+02:00
 trailer: "pLl3T5SxBDA"
-leden: []
+leden: ["bdu"]
 image: "posters/animale.jpg"
 draft: false
 ---
