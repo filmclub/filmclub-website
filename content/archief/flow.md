@@ -1,17 +1,17 @@
 ---
-number: 162
+number: 161
 title: "Flow"
 date: 2025-01-22T14:15:00+02:00
 publishdate: 2024-12-09T22:14:26+02:00
 trailer: "eD06LQzWFTc"
-leden: []
+leden: ["idu", "bdu"]
 image: "posters/flow.jpg"
 draft: false
 ---
 
 ##### 22/12/2024 14:15
 
-[Cinema Palace](https://cinema-palace.be/nl/evenementen/avant-premieres-flow)
+[Cinema Palace](https://cinema-palace.be/nl/film/flow-le-chat-qui-navait-plus-peur-de-leau-no-dial)
 
 Een kat wordt wakker in een wereld die wordt overspoeld door water waar al het menselijk
 leven lijkt te zijn verdwenen.

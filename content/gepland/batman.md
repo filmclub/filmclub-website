@@ -6,7 +6,7 @@ publishdate: 2024-12-15T22:14:26+02:00
 trailer: "dgC9Q0uhX70"
 leden: []
 image: "posters/batman.jpg"
-draft: false
+draft: true
 ---
 
 ##### 26/12/2024 18:30
