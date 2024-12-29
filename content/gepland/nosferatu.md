@@ -1,15 +1,15 @@
 ---
-number: 164
+number: 162
 title: "Nosferatu"
-date: 2024-12-30T18:30:00+02:00
+date: 2024-12-29T21:15:00+02:00
 publishdate: 2024-12-25T22:14:26+02:00
 trailer: "rXFz_6h2VeM"
-leden: []
+leden: ["ewa", "bdu"]
 image: "posters/nosferatu.jpg"
 draft: false
 ---
 
-##### TBD
+##### 29/12/2024 21:15
 
 [Galeries](https://galeries.be/nl/nosferatu/)
 
