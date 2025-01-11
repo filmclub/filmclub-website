@@ -4,12 +4,12 @@ title: "Megalopolis"
 date: 2024-12-21T20:30:00+02:00
 publishdate: 2024-12-01T22:14:26+02:00
 trailer: "58t448USwFc"
-leden: []
+leden: ["bdu"]
 image: "posters/megalopolis.jpg"
 draft: false
 ---
 
-##### TBD
+##### 11/01/2025 21:00
 
 [Galeries](https://galeries.be/nl/megalopolis/)
 
