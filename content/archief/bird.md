@@ -1,17 +1,17 @@
 ---
-number: 167
+number: 166
 title: "Bird"
 date: 2025-01-06T20:30:00+02:00
 publishdate: 2024-12-22T22:14:26+02:00
 trailer: "2_2cZ9fMeEA"
-leden: []
+leden: ["bdu"]
 image: "posters/bird.jpg"
 draft: false
 ---
 
-##### TBD
+##### 27/01/2025 21:05
 
-[Cinema Palace](https://cinema-palace.be/nl/film/bird)
+[Galeries](https://galeries.be/nl/bird/)
 
 De 12-jarige Bailey woont bij zijn vader Bug in een kraakpand in het
 noorden van Kent. Bug heeft weinig tijd voor hem, want hij gaat binnenkort
