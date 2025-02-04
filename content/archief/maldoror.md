@@ -1,15 +1,15 @@
 ---
-number: 168
+number: 167
 title: "Maldoror"
-date: 2025-01-21T20:30:00+02:00
+date: 2025-02-04T20:30:00+02:00
 publishdate: 2024-12-01T22:14:26+02:00
 trailer: "7Y0MgGzuJk4"
-leden: []
+leden: ["bdu"]
 image: "posters/maldoror.jpg"
 draft: false
 ---
 
-##### TBD
+##### 04/02/2025 20:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/maldoror)
 
