@@ -1,15 +1,15 @@
 ---
-number: 169
+number: 168
 title: "The Brutalist"
 date: 2025-02-06T20:30:00+02:00
 publishdate: 2025-02-01T22:14:26+02:00
 trailer: "GdRXPAHIEW4"
-leden: []
+leden: ["bdu"]
 image: "posters/the-brutalist.jpg"
 draft: false
 ---
 
-##### TBD
+##### 10/02/2025 19:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/brutalist)
 
