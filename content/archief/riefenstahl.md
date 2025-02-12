@@ -4,7 +4,7 @@ title: "Riefenstahl"
 date: 2025-02-12T21:15:00+02:00
 publishdate: 2025-02-10T22:14:26+02:00
 trailer: "VsZCGQytuZI"
-leden: []
+leden: ["jva", "bdu"]
 image: "posters/riefenstahl.jpg"
 draft: false
 ---
