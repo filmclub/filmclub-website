@@ -15,5 +15,5 @@ draft: false
 
 Om van de aarde af te komen, meldt Mickey Barnes zich aan als een "expendable",
 een wegwerpmedewerker waarbij na de dood telkens een nieuw lichaam wordt
-geregenereerd met de meeste van zijn herinneringen intact.
+geregenereerd met de meeste van zijn herinneringen intact...
 <!--more-->
