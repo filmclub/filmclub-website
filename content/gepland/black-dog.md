@@ -1,15 +1,15 @@
 ---
-number: 177
+number: 178
 title: "Black Dog"
-date: 2025-05-01T20:30:00+02:00
+date: 2025-06-18T21:20:00+02:00
 publishdate: 2025-04-21T22:14:26+02:00
 trailer: "RvpgXz4RJC8&t"
 leden: []
 image: "posters/black-dog.jpg"
-draft: true
+draft: false
 ---
 
-##### TBD
+##### 18/06/2025 21:20
 
 [Geleries](https://galeries.be/en/black-dog)
 
