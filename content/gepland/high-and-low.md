@@ -1,6 +1,6 @@
 ---
 number: 179
-title: "Hight and Low"
+title: "High and Low"
 date: 2025-07-05T20:30:00+02:00
 publishdate: 2025-06-15T22:14:26+02:00
 trailer: "prc1aXLUke0"
