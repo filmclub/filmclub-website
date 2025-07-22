@@ -1,5 +1,5 @@
 ---
-number: 178
+number: 179
 title: "Black Dog"
 date: 2025-06-18T21:20:00+02:00
 publishdate: 2025-04-21T22:14:26+02:00

@@ -1,15 +1,15 @@
 ---
-number: 179
+number: 178
 title: "High and Low"
 date: 2025-07-05T20:30:00+02:00
 publishdate: 2025-06-15T22:14:26+02:00
 trailer: "prc1aXLUke0"
-leden: []
+leden: ["bdu"]
 image: "posters/high-and-low.jpg"
 draft: false
 ---
 
-##### 05/07/2025 20:30
+##### 21/07/2025 21:00
 
 [Cinema Palace](https://cinema-palace.be/nl/film/high-and-low-tengoku-jigoku-4k)
 
