@@ -13,5 +13,6 @@ draft: false
 
 [Galeries](https://galeries.be/nl/nouvelle-vague/)
 
-
+Dit is het verhaal van Godard die ‘A bout de souffle’ maakte,
+verteld in de stijl en geest waarin Godard ‘A bout de souffle’ maakte.
 <!--more-->
