@@ -4,7 +4,7 @@ title: "Sirât"
 date: 2025-10-07T21:10:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00
 trailer: "g91mQYPzkRU"
-leden: []
+leden: ["bdu"]
 image: "posters/sirat.jpg"
 draft: false
 ---
