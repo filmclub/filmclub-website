@@ -1,7 +1,7 @@
 ---
 number: 180
 title: "Sirât"
-date: 2025-10-01T21:00:00+02:00
+date: 2025-10-07T21:10:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00
 trailer: "g91mQYPzkRU"
 leden: []
@@ -9,9 +9,9 @@ image: "posters/sirat.jpg"
 draft: false
 ---
 
-##### TBD
+##### 07/10/2025 21:10
 
-[Cinema Palace](https://cinema-palace.be/nl/film/sirat)
+[Galeries](https://galeries.be/nl/expat-cinema-sirat/)
 
 Een vader gaat samen met zijn zoon op zoek naar zijn vermiste dochter in Noord-Afrika.
 <!--more-->
