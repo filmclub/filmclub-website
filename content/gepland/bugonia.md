@@ -1,5 +1,5 @@
 ---
-number: 183
+number: 184
 title: "Bugonia"
 date: 2025-09-30T21:00:00+02:00
 publishdate: 2025-09-20T22:14:26+02:00
