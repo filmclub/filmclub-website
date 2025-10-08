@@ -3,7 +3,7 @@ number: 99
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 publishdate: {{ .Date }}
-trailer: "hEJnMQG9ev8"
+trailer: ""
 leden: [] 
 image: "posters/{{ .Name }}.jpg"
 draft: false
