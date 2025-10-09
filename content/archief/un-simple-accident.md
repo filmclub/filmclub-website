@@ -4,7 +4,7 @@ title: "Un Simple Accident"
 date: 2025-10-08T21:00:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00
 trailer: "1SwrCRGS604"
-leden: []
+leden: ["gam", "bdu"]
 image: "posters/un-simple-accident.jpg"
 draft: false
 ---
