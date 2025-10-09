@@ -1,7 +1,7 @@
 ---
 number: 181
 title: "Un Simple Accident"
-date: 2025-10-05T21:00:00+02:00
+date: 2025-10-08T21:00:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00
 trailer: "1SwrCRGS604"
 leden: []
@@ -9,9 +9,9 @@ image: "posters/un-simple-accident.jpg"
 draft: false
 ---
 
-##### TBD
+##### 08/10/2025 21:30
 
-[Cinema](https://galeries.be/nl/un-simple-accident/)
+[Galeries](https://galeries.be/nl/un-simple-accident/)
 
 Vahid is aan het werk in de garage als er op een rustige avond een klant binnenkomt, die na een klein ongeluk problemen heeft met z’n auto.
 <!--more-->
