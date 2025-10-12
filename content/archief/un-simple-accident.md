@@ -9,10 +9,15 @@ image: "posters/un-simple-accident.jpg"
 draft: false
 ---
 
-##### 08/10/2025 21:30
+##### 09/10/2025 21:30
 
 [Galeries](https://galeries.be/nl/un-simple-accident/)
 
-Vahid is aan het werk in de garage als er op een rustige avond een klant binnenkomt, die na een klein ongeluk problemen heeft met z’n auto.
+Vahid is aan het werk in de garage als er op een rustige avond
+een klant binnenkomt, die na een klein ongeluk problemen heeft met z’n auto.
 <!--more-->
-Vahid schrikt als hij Eghbal denkt te herkennen, de officier die hem in de gevangenis heeft gemarteld. Hij ruikt wraak, maar tegelijkertijd nemen de twijfels toe. Samen met een aantal lotgenoten probeert hij wanhopig de waarheid boven tafel te krijgen. Het brengt ze van hachelijke tot komische situaties, maar hoe weten ze zeker dat ze de juiste man te pakken hebben?
+Vahid schrikt als hij Eghbal denkt te herkennen, de officier die hem
+in de gevangenis heeft gemarteld. Hij ruikt wraak, maar tegelijkertijk
+nemen de twijfels toe. Samen met een aantal lotgenoten probeert hij
+wanhopig de waarheid boven tafel te krijgen. Het brengt ze van hachelijke
+tot komische situaties, maar hoe weten ze zeker dat ze de juiste man te pakken hebben?
