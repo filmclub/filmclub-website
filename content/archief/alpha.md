@@ -3,8 +3,8 @@ number: 182
 title: "Alpha"
 date: 2025-10-13T21:20:00+02:00
 publishdate: 2025-10-07T20:58:33+02:00
-trailer: ""
-leden: [] 
+trailer: "oihFdsL87Jg"
+leden: ["bdu"] 
 image: "posters/alpha.jpg"
 draft: false
 ---
