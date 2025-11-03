@@ -9,9 +9,9 @@ image: "posters/bugonia.jpg"
 draft: false
 ---
 
-##### TBD Release 29/10
+##### TBD
 
 [Aventure](https://cinema-aventure.be/catalogue/movie/?E365966E-CF56-8B69-C2DB-30F5D35206E6)
 
-Wanneer hun gezworen vijand na 16 jaar weer opduikt, komt een groep voormalige revolutionairen bijeen om de dochter van een van hen te redden.
+Geobsedeerd door complottheorieën ontvoeren twee jonge mannen de invloedrijke CEO van een groot bedrijf. Ze zijn ervan overtuigd dat ze een alien is die van plan is de aarde te vernietigen.
 <!--more-->
