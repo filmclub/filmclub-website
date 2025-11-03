@@ -1,5 +1,5 @@
 ---
-number: 183
+number: 184
 title: "Nouvelle Vague"
 date: 2025-10-01T21:00:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00
