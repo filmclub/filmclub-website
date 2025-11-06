@@ -3,7 +3,7 @@ number: 183
 title: "Bugonia"
 date: 2025-11-06T21:20:00+02:00
 publishdate: 2025-09-20T22:14:26+02:00
-trailer: "kQUPdVxZNPk"
+trailer: "mxAboAOZt2I"
 leden: []
 image: "posters/bugonia.jpg"
 draft: false
