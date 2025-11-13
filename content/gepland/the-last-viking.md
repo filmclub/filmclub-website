@@ -3,7 +3,7 @@ number: 185
 title: "The Last Viking"
 date: 2025-11-15T20:15:00+02:00
 publishdate: 2025-11-02T02:14:26+02:00
-trailer: ""
+trailer: "ZDtKfdcGz80"
 leden: []
 image: "posters/the-last-viking.jpg"
 draft: false

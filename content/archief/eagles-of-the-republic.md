@@ -4,7 +4,7 @@ title: "Eagles of the Republic"
 date: 2025-11-13T20:15:00+02:00
 publishdate: 2025-11-01T02:14:26+02:00
 trailer: "rGX9PxE7nPs"
-leden: []
+leden: ["bdu"]
 image: "posters/eagles-of-the-republic.jpg"
 draft: false
 ---
