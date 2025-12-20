@@ -4,12 +4,12 @@ title: "The Blue Trail"
 date: 2025-12-08T21:30:00+01:00
 publishdate: 2025-12-05T19:01:42+01:00
 trailer: "oe5q1hzQFjE"
-leden: ["bdu"] 
+leden: [] 
 image: "posters/the-blue-trail.jpg"
 draft: false
 ---
 
-##### 08/12/2020 21:30
+##### TBD
 
 [Galleries](https://galeries.be/en/expat-cinema-the-blue-trail/)
 
