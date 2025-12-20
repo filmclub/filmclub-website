@@ -1,20 +1,23 @@
 ---
 number: 187
-title: "The Last Viking"
-date: 2025-11-15T20:15:00+02:00
-publishdate: 2025-11-02T02:14:26+02:00
-trailer: "ZDtKfdcGz80"
+title: "Resurrection"
+date: 2025-12-20T18:00:00+02:00
+publishdate: 2025-12-09T02:14:26+02:00
+trailer: "I1kUNRGecwg"
 leden: []
-image: "posters/the-last-viking.jpg"
+image: "posters/resurrection.jpg"
 draft: false
 ---
 
-##### TBD
+##### 20/12/2025 18:00
 
-[Cinema Palace](https://cinema-palace.be/nl/film/last-viking)
+[Cinema Palace](https://cinema-palace.be/nl/film/resurrection)
 
-Anker komt vrij na een gevangenisstraf van vijftien jaar te hebben uitgezeten.
+In een wereld waarin de mensheid het vermogen om te dromen heeft verloren,
+blijft één wezen betoverd door de vervagende illusies van de droomwereld.
 <!--more-->
-Zijn broer Manfred heeft de buit van zijn bankoverval begraven en is de enige
-die weet waar die zich bevindt. Helaas heeft Manfred een psychische stoornis
-ontwikkeld waardoor hij alles vergeet.
+Dit monster, verdwaald in mijmeringen, klampte zich vast aan visioenen die
+niemand anders kon zien, tot er een vrouw verschijnt. Voorzien van de
+zeldzame gave om deze illusies te zien zoals ze werkelijk zijn, besluit
+ze de dromen van het monster binnen te gaan, vastbesloten om de waarheid
+te ontdekken die daarin verborgen zit.
