@@ -9,7 +9,7 @@ image: "posters/the-secret-agent.jpg"
 draft: false
 ---
 
-##### TBD
+##### 22/12/2025 20:25
 
 [Cinema Palace](https://cinema-palace.be/nl/film/secret-agent-o-agente-secreto)
 

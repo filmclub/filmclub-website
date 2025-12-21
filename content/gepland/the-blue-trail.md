@@ -1,5 +1,5 @@
 ---
-number: 186
+number: 187
 title: "The Blue Trail"
 date: 2025-12-08T21:30:00+01:00
 publishdate: 2025-12-05T19:01:42+01:00
