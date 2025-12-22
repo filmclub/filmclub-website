@@ -4,7 +4,7 @@ title: "The Secret Agent"
 date: 2025-12-22T20:45:00+02:00
 publishdate: 2025-12-02T02:14:26+02:00
 trailer: "9UfrzDKrhEc"
-leden: []
+leden: ["gam", "bdu"]
 image: "posters/the-secret-agent.jpg"
 draft: false
 ---
