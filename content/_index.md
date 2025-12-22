@@ -19,4 +19,4 @@ draft: false
 005 [ewa](leden/ewa) (12/01/2020)  
 006 [kbo](leden/kbo) (14/09/2021)  
 007 [jva](leden/jva) (12/02/2025)  
-008 [gaf](leden/gaf) (09/10/2025)
+008 [gam](leden/gam) (09/10/2025)
