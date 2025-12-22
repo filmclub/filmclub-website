@@ -1,7 +1,7 @@
 ---
-number: 187
+number: 186
 title: "The Blue Trail"
-date: 2025-12-08T21:30:00+01:00
+date: 2025-12-21T14:42:00+01:00
 publishdate: 2025-12-05T19:01:42+01:00
 trailer: "oe5q1hzQFjE"
 leden: [] 
@@ -9,7 +9,7 @@ image: "posters/the-blue-trail.jpg"
 draft: false
 ---
 
-##### TBD
+##### 21/12/2025 14:45
 
 [Galleries](https://galeries.be/en/expat-cinema-the-blue-trail/)
 

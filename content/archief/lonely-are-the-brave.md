@@ -1,5 +1,5 @@
 ---
-number: 154
+number: 153
 title: "Lonely are the Brave"
 date: 2024-10-03T19:00:00+02:00
 publishdate: 2024-09-29T22:14:26+02:00

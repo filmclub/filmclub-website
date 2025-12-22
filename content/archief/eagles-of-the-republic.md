@@ -1,5 +1,5 @@
 ---
-number: 184
+number: 183
 title: "Eagles of the Republic"
 date: 2025-11-13T20:15:00+02:00
 publishdate: 2025-11-01T02:14:26+02:00

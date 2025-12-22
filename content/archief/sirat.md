@@ -1,5 +1,5 @@
 ---
-number: 180
+number: 179
 title: "Sirât"
 date: 2025-10-06T21:10:00+02:00
 publishdate: 2025-10-01T02:14:26+02:00

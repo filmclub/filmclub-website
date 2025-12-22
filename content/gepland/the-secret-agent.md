@@ -1,5 +1,5 @@
 ---
-number: 188
+number: 187
 title: "The Secret Agent"
 date: 2025-12-21T20:15:00+02:00
 publishdate: 2025-12-02T02:14:26+02:00

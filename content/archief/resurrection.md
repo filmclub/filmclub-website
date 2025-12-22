@@ -1,5 +1,5 @@
 ---
-number: 186
+number: 185
 title: "Resurrection"
 date: 2025-12-20T18:00:00+02:00
 publishdate: 2025-12-09T02:14:26+02:00

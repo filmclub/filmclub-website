@@ -1,5 +1,5 @@
 ---
-number: 189
+number: 188
 title: "The Last Viking"
 date: 2025-11-15T20:15:00+02:00
 publishdate: 2025-11-02T02:14:26+02:00

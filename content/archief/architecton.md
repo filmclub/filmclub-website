@@ -1,5 +1,5 @@
 ---
-number: 177
+number: 176
 title: "Architecton"
 date: 2025-06-16T21:00:00+02:00
 publishdate: 2025-06-01T22:14:26+02:00
