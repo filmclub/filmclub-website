@@ -4,7 +4,7 @@ title: "The Blue Trail"
 date: 2025-12-21T14:42:00+01:00
 publishdate: 2025-12-05T19:01:42+01:00
 trailer: "oe5q1hzQFjE"
-leden: [] 
+leden: ["bdu"] 
 image: "posters/the-blue-trail.jpg"
 draft: false
 ---
