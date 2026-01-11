@@ -4,7 +4,7 @@ title: "Father Mother Sister Brother"
 date: 2026-01-10T21:15:00+02:00
 publishdate: 2026-01-01T02:14:26+02:00
 trailer: "PA07EmbZ0b0"
-leden: []
+leden: ["ewa", "bdu"]
 image: "posters/father-mother-sister-brother.jpg"
 draft: false
 ---
