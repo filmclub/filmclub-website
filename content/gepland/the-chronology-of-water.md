@@ -9,7 +9,7 @@ image: "posters/the-chronology-of-water.jpg"
 draft: false
 ---
 
-##### TBD
+##### 21/01/2026
 
 [Cinema Palace](https://cinema-palace.be/nl/film/chronology-water)
 
