@@ -1,5 +1,5 @@
 ---
-number: 192
+number: 193
 title: "No Other Choice"
 date: 2026-02-10T21:15:00+02:00
 publishdate: 2026-01-09T02:14:26+02:00

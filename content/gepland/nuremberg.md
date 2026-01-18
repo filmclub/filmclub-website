@@ -1,5 +1,5 @@
 ---
-number: 191
+number: 192
 title: "Nuremberg"
 date: 2026-02-10T21:15:00+02:00
 publishdate: 2026-01-09T02:14:26+02:00

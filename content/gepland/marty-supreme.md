@@ -1,5 +1,5 @@
 ---
-number: 194
+number: 195
 title: "Marty Supreme"
 date: 2026-02-19T21:15:00+02:00
 publishdate: 2026-01-10T02:14:26+02:00
