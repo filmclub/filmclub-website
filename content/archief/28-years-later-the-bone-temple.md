@@ -4,7 +4,7 @@ title: "28 Years Later: The Bone Temple"
 date: 2026-01-18T21:00:00+02:00
 publishdate: 2026-01-05T02:14:26+02:00
 trailer: "EOwTdTZA8D8"
-leden: []
+leden: ["bdu"]
 image: "posters/28-years-later-the-bone-temple.jpg"
 draft: false
 ---
