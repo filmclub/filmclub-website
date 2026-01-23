@@ -7,6 +7,7 @@ image: "posters/nomadland.jpg"
 leden: ["ewa", "nam", "bdu"]
 trailer: 6sxCFZ8_d84
 draft: false
+letterboxd_id: lnRy
 ---
 
 ##### 09/06/2021 09:00

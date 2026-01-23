@@ -7,6 +7,7 @@ trailer: "0Nu7Z9AxGNg"
 leden: ["bdu"]
 image: "posters/bones-and-all.jpg"
 draft: false
+letterboxd_id: tLd4
 ---
 
 ##### 20/12/2022 21:00

@@ -7,6 +7,7 @@ trailer: "qnBmqdp8Hts"
 leden: ["ewa", "bdu"]
 image: "posters/tar.jpg"
 draft: false
+letterboxd_id: uNIA
 ---
 
 ##### 06/02/2023 20:45

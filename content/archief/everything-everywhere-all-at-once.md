@@ -7,6 +7,7 @@ trailer: "3rODVhHbq-k"
 leden: ["ewa", "bdu", "nam", "has"]
 image: "posters/everything-everywhere-all-at-once.jpg"
 draft: false
+letterboxd_id: jUk4
 ---
 
 ##### 24/06/2022 21:00

@@ -7,6 +7,7 @@ trailer: "wq85VKrV7C4"
 leden: ["bdu", "nam"]
 image: "posters/yannick.jpg"
 draft: false
+letterboxd_id: G2es
 ---
 
 ##### 09/10/2023 15:50

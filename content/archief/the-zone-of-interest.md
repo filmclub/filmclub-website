@@ -7,6 +7,7 @@ trailer: "J6pFnrd5L-w"
 leden: ["bdu"]
 image: "posters/the-zone-of-interest.jpg"
 draft: false
+letterboxd_id: gJsA
 ---
 
 ##### 14/02/2024 19:15

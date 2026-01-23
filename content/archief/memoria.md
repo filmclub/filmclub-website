@@ -7,6 +7,7 @@ trailer: "PDU6B93ltds"
 leden: ["bdu"] 
 image: "posters/memoria.jpg"
 draft: false
+letterboxd_id: iwtE
 ---
 
 ##### 20/01/2021 21:30

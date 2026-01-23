@@ -7,6 +7,7 @@ trailer: "rGX9PxE7nPs"
 leden: ["bdu"]
 image: "posters/eagles-of-the-republic.jpg"
 draft: false
+letterboxd_id: KkUk
 ---
 
 ##### 13/11/2025 20:15

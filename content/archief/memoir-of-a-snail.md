@@ -7,6 +7,7 @@ trailer: "n8sVFsMcCBk"
 leden: ["has", "bdu"]
 image: "posters/memoir-of-a-snail.jpg"
 draft: false
+letterboxd_id: EgX8
 ---
 
 ##### 12/03/2025 17:00

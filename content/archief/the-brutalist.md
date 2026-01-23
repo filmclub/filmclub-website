@@ -7,6 +7,7 @@ trailer: "GdRXPAHIEW4"
 leden: ["bdu"]
 image: "posters/the-brutalist.jpg"
 draft: false
+letterboxd_id: k4BO
 ---
 
 ##### 10/02/2025 19:30

@@ -7,6 +7,7 @@ trailer: "9UfrzDKrhEc"
 leden: ["gam", "bdu"]
 image: "posters/the-secret-agent.jpg"
 draft: false
+letterboxd_id: KkUE
 ---
 
 ##### 22/12/2025 20:45

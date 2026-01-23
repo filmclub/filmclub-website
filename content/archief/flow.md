@@ -7,6 +7,7 @@ trailer: "eD06LQzWFTc"
 leden: ["idu", "bdu"]
 image: "posters/flow.jpg"
 draft: false
+letterboxd_id: v1Ei
 ---
 
 ##### 22/12/2024 14:15

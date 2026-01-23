@@ -7,6 +7,7 @@ trailer: "fXz-WV_1ocw"
 leden: ["has", "ewa", "bdu"] 
 image: "posters/on-the-rocks.jpg"
 draft: false
+letterboxd_id: l8aY
 ---
 
 ##### 13/10/2020 21:15

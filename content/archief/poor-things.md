@@ -7,6 +7,7 @@ trailer: "MPLrC_UzFvc"
 leden: ["bdu"]
 image: "posters/poor-things.jpg"
 draft: false
+letterboxd_id: tNWU
 ---
 
 ##### 04/02/2024 21:30

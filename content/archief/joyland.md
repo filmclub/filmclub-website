@@ -7,6 +7,7 @@ trailer: "FU8a4_VtMAg"
 leden: ["bdu"]
 image: "posters/joyland.jpg"
 draft: false
+letterboxd_id: AlzM
 ---
 
 ##### 19/01/2022 21:30

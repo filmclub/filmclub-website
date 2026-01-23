@@ -7,6 +7,7 @@ trailer: "AngrJVXQ7AM"
 leden: ["has", "bdu"] 
 image: "posters/first-cow.jpg"
 draft: false
+letterboxd_id: krga
 ---
 
 ##### 23/08/2021 21:30

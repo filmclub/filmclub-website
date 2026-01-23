@@ -7,6 +7,7 @@ trailer: "T8HR-zTRrCM"
 leden: ["has", "bdu"]
 image: "posters/the-innocents.jpg"
 draft: false
+letterboxd_id: oAlc
 ---
 
 ##### 11/03/2022 21:00

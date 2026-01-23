@@ -7,6 +7,7 @@ trailer: "Igj5RZsFsOs"
 leden: ["bdu"]
 image: "posters/mad-max-2.jpg"
 draft: false
+letterboxd_id: 1ZPg
 ---
 
 ##### 07/06/2024 21:15

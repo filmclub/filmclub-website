@@ -7,6 +7,7 @@ trailer: "kQUPdVxZNPk"
 leden: ["bdu"]
 image: "posters/one-battle-after-another.jpg"
 draft: false
+letterboxd_id: DUHM
 ---
 
 ##### 30/09/2025 21:00

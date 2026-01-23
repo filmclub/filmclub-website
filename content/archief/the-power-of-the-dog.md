@@ -7,6 +7,7 @@ trailer: "LRDPo0CHrko"
 leden: ["ewa", "bdu"]
 image: "posters/the-power-of-the-dog.jpg"
 draft: false
+letterboxd_id: m99E
 ---
 
 ##### 25/11/2021 21:30

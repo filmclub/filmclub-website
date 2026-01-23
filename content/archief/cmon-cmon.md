@@ -7,6 +7,7 @@ trailer: "kysKsNVmt6g"
 leden: ["bdu"] 
 image: "posters/cmon-cmon.jpg"
 draft: false
+letterboxd_id: nrI0
 ---
 
 ##### 02/02/2022 21:15

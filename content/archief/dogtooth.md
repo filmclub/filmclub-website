@@ -7,6 +7,7 @@ trailer: "yQdjxQN4ieg"
 leden: ["bdu"]
 image: "posters/dogtooth.jpg"
 draft: false
+letterboxd_id: 158K
 ---
 
 ##### 12/08/2024 14:15

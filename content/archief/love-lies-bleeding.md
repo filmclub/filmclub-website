@@ -7,6 +7,7 @@ trailer: "PDOAYulgpQ0"
 leden: ["bdu"]
 image: "posters/love-lies-bleeding.jpg"
 draft: false
+letterboxd_id: zN4q
 ---
 
 ##### 03/07/2024 21:15

@@ -7,6 +7,7 @@ trailer: "iBsqjZSkCjQ"
 leden: ["bdu"]
 image: "posters/nanny.jpg"
 draft: false
+letterboxd_id: vPHQ
 ---
 
 ##### 13/10/2022 21:00

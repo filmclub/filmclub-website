@@ -7,6 +7,7 @@ trailer: "Q81Yf46Oj3s"
 leden: ["bdu"] 
 image: "posters/nightmare-alley.jpg"
 draft: false
+letterboxd_id: m0HC
 ---
 
 ##### 27/01/2022 21:15

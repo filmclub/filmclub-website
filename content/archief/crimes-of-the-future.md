@@ -7,6 +7,7 @@ trailer: "v_bbLcJAHEo"
 leden: ["bdu"] 
 image: "posters/crimes-of-the-future.jpg"
 draft: false
+letterboxd_id: uTuY
 ---
 
 ##### 09/06/2022 21:30

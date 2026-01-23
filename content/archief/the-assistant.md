@@ -7,6 +7,7 @@ trailer: "6cLf0i-kYio"
 leden: ["kbo", "has", "bdu"] 
 image: "posters/the-assistant.jpg"
 draft: false
+letterboxd_id: neWo
 ---
 
 ##### 14/09/2021 21:40

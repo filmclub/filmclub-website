@@ -7,6 +7,7 @@ trailer: "55M5ZgAqbWo"
 leden: ["ewa", "bdu"]
 image: "posters/the-worst-person-in-the-world.jpg"
 draft: false
+letterboxd_id: oyws
 ---
 
 ##### 26/12/2021 19:00

@@ -7,6 +7,7 @@ trailer: "rcnXNCP5fC4"
 leden: ["bdu"]
 image: "posters/the-mother-of-all-lies.jpg"
 draft: false
+letterboxd_id: G55e
 ---
 
 ##### 03/06/2024 21:20

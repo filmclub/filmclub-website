@@ -7,6 +7,7 @@ trailer: "9aMHyTqvIvU"
 leden: ["bdu"]
 image: "posters/decision-to-leave.jpg"
 draft: false
+letterboxd_id: qp9e
 ---
 
 ##### 19/09/2022 21:30

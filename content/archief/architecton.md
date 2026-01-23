@@ -7,6 +7,7 @@ trailer: "Pn7VdmcCjcA"
 leden: ["bdu"]
 image: "posters/architecton.jpg"
 draft: false
+letterboxd_id: KU6q
 ---
 
 ##### 16/06/2025 21:00

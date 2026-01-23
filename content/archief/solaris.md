@@ -7,6 +7,7 @@ image: "posters/solaris.png"
 leden: ["mva", "bdu"]
 comments: true
 draft: false
+letterboxd_id: 2a2Y
 ---
 
 ##### 18/06/2019 - 20:00

@@ -7,6 +7,7 @@ trailer: "IPxGzF8dnVw"
 leden: ["bdu"]
 image: "posters/babylon.jpg"
 draft: false
+letterboxd_id: mM02
 ---
 
 ##### 25/01/2023 20:15

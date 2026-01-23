@@ -7,6 +7,7 @@ trailer: "oe5q1hzQFjE"
 leden: ["bdu"] 
 image: "posters/the-blue-trail.jpg"
 draft: false
+letterboxd_id: IrKi
 ---
 
 ##### 21/12/2025 14:45

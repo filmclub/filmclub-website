@@ -7,6 +7,7 @@ trailer: "gMIct51ObkY"
 leden: ["bdu"] 
 image: "posters/holgut.jpg"
 draft: false
+letterboxd_id: uH2S
 ---
 
 ##### 06/10/2021 21:30

@@ -7,6 +7,7 @@ trailer: "2_2cZ9fMeEA"
 leden: ["bdu"]
 image: "posters/bird.jpg"
 draft: false
+letterboxd_id: GGhm
 ---
 
 ##### 27/01/2025 21:05

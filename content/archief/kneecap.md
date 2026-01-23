@@ -7,6 +7,7 @@ trailer: "g_hCJytsltM"
 leden: ["bdu"]
 image: "posters/kneecap.jpg"
 draft: false
+letterboxd_id: ILxI
 ---
 
 ##### 03/12/2024 21:15

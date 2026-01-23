@@ -7,6 +7,7 @@ trailer: "LM7pn7Drq_s"
 leden: ["bdu"]
 image: "posters/samsara.jpg"
 draft: false
+letterboxd_id: EL1a
 ---
 
 ##### 12/06/2024 21:30

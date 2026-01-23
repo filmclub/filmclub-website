@@ -7,6 +7,7 @@ trailer: "oihFdsL87Jg"
 leden: ["bdu"] 
 image: "posters/alpha.jpg"
 draft: false
+letterboxd_id: N008
 ---
 
 ##### 13/10/2025 21:20

@@ -7,6 +7,7 @@ trailer: "mhRgCsQf3CU"
 leden: ["bdu"]
 image: "posters/true-stories.jpg"
 draft: false
+letterboxd_id: 1wXU
 ---
 
 ##### 27/04/2024 22:00

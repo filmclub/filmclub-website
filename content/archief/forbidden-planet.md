@@ -7,6 +7,7 @@ trailer: "AxQ9GG6hUDM"
 leden: ["bdu"]
 image: "posters/forbidden-planet.jpg"
 draft: false
+letterboxd_id: 29vK
 ---
 
 ##### 04/10/2024 22:00

@@ -7,6 +7,7 @@ trailer: "X_t0j_ltLg0"
 leden: ["bdu"]
 image: "posters/anora.jpg"
 draft: false
+letterboxd_id: Egcw
 ---
 
 ##### 13/11/2024 21:15

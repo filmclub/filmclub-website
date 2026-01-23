@@ -7,6 +7,7 @@ trailer: "4TZb7YfK-JI"
 leden: ["has", "kbo", "bdu"] 
 image: "posters/the-father.jpg"
 draft: false
+letterboxd_id: m8Ie
 ---
 
 ##### 19/06/2020 21:35

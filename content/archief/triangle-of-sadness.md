@@ -7,6 +7,7 @@ trailer: "VDvfFIZQIuQ"
 leden: ["has", "bdu"]
 image: "posters/triangle-of-sadness.jpg"
 draft: false
+letterboxd_id: hXlq
 ---
 
 ##### 04/10/2022 20:00

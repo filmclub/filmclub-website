@@ -7,6 +7,7 @@ trailer: "6rtTR9hzzbs"
 leden: ["bdu"]
 image: "posters/holy-spider.jpg"
 draft: false
+letterboxd_id: xBn2
 ---
 
 ##### 03/11/2022 21:20

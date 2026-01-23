@@ -7,6 +7,7 @@ trailer: "rXFz_6h2VeM"
 leden: ["ewa", "bdu"]
 image: "posters/nosferatu.jpg"
 draft: false
+letterboxd_id: f5eG
 ---
 
 ##### 29/12/2024 21:15

@@ -7,6 +7,7 @@ trailer: "prc1aXLUke0"
 leden: ["bdu"]
 image: "posters/high-and-low.jpg"
 draft: false
+letterboxd_id: 1RSc
 ---
 
 ##### 21/07/2025 21:00

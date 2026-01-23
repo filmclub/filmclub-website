@@ -7,6 +7,7 @@ trailer: "UBUfCL_tvro"
 leden: ["bdu"]
 image: "posters/boiling-point.jpg"
 draft: false
+letterboxd_id: uo2u
 ---
 
 ##### 27/10/2022 21:20

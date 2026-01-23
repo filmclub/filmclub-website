@@ -7,6 +7,7 @@ image: "posters/roma.png"
 leden: ["nam", "bdu"]
 comments: true
 draft: false
+letterboxd_id: f69M
 ---
 
 ##### 29/03/2019 - 21:20

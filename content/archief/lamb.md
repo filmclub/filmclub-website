@@ -7,6 +7,7 @@ trailer: "wfrvnETr1Z8"
 leden: ["has", "bdu"] 
 image: "posters/lamb.jpg"
 draft: false
+letterboxd_id: tFwE
 ---
 
 ##### 06/01/2022 21:15

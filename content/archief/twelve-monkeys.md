@@ -7,6 +7,7 @@ trailer: "15s4Y9ffW_o"
 leden: ["bdu"]
 image: "posters/twelve-monkeys.jpg"
 draft: false
+letterboxd_id: 2beQ
 ---
 
 ##### 12/07/2024 21:15

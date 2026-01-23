@@ -7,6 +7,7 @@ trailer: "Og0qWElCCsQ"
 leden: ["bdu"]
 image: "posters/the-phoenician-scheme.jpg"
 draft: False
+letterboxd_id: H0Ca
 ---
 
 ##### 10/06/2025 21:15

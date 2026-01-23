@@ -7,6 +7,7 @@ trailer: "lwk_zJgGoFI"
 leden: ["bdu"]
 image: "posters/kinds-of-kindness.jpg"
 draft: false
+letterboxd_id: CWPw
 ---
 
 ##### 11/07/2024 20:50

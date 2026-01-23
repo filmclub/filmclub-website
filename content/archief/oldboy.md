@@ -7,6 +7,7 @@ trailer: "2HkjrJ6IK5E"
 leden: ["bdu"]
 image: "posters/oldboy.jpg"
 draft: false
+letterboxd_id: 29R2
 ---
 
 ##### 12/08/2022 19:00

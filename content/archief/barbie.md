@@ -7,6 +7,7 @@ trailer: "IfEla0bg1Uc"
 leden: ["ewa", "fvi", "has"]
 image: "posters/barbie.jpg"
 draft: false
+letterboxd_id: bCLK
 ---
 
 ##### 28/07/2023 20:00

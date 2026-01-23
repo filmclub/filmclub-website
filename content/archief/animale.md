@@ -7,6 +7,7 @@ trailer: "pLl3T5SxBDA"
 leden: ["bdu"]
 image: "posters/animale.jpg"
 draft: false
+letterboxd_id: CBgg
 ---
 
 ##### 18/12/2024 21:15

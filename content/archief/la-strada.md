@@ -7,6 +7,7 @@ trailer: "jRHCi3Awkmg"
 leden: ["bdu"]
 image: "posters/la-strada.jpg"
 draft: false
+letterboxd_id: 2asi
 ---
 
 ##### 03/03/2024 21:15

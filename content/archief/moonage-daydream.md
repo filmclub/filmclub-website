@@ -7,6 +7,7 @@ trailer: "pzitR7tUr0c"
 leden: ["aba", "tpi", "bdu"]
 image: "posters/moonage-daydream.jpg"
 draft: false
+letterboxd_id: A8Co
 ---
 
 ##### 29/09/2022 21:20

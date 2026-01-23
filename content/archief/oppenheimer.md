@@ -7,6 +7,7 @@ trailer: "uYPbbksJxIg"
 leden: ["bdu"]
 image: "posters/oppenheimer.jpg"
 draft: false
+letterboxd_id: wUow
 ---
 
 ##### 17/07/2023 20:30

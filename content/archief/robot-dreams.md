@@ -7,6 +7,7 @@ trailer: "0AKd7h2U_aI"
 leden: ["ida", "fda", "bdu"]
 image: "posters/robot-dreams.jpg"
 draft: false
+letterboxd_id: vBZm
 ---
 
 ##### 30/12/2023 18:30

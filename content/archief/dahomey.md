@@ -7,6 +7,7 @@ trailer: "bbpBJCDwzGA"
 leden: ["bdu"]
 image: "posters/dahomey.jpg"
 draft: false
+letterboxd_id: FFBI
 ---
 
 ##### 30/09/2024 15:55

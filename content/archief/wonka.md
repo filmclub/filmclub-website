@@ -7,6 +7,7 @@ trailer: "otNh9bTjXWg"
 leden: ["ida", "fda", "nrd", "bdu"]
 image: "posters/wonka.jpg"
 draft: false
+letterboxd_id: tCQm
 ---
 
 ##### 06/01/2024 17:00

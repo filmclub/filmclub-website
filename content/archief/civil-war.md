@@ -7,6 +7,7 @@ trailer: "fxteQp6hm64"
 leden: ["bdu"]
 image: "posters/civil-war.jpg"
 draft: false
+letterboxd_id: z1jW
 ---
 
 ##### 22/04/2024 21:30

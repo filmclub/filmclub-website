@@ -7,6 +7,7 @@ trailer: "vXbuYarVaEE"
 leden: ["bdu"]
 image: "posters/aloners.jpg"
 draft: false
+letterboxd_id: ujeK
 ---
 
 ##### 05/10/2022 21:00

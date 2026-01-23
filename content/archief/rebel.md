@@ -7,6 +7,7 @@ trailer: "sOSCrwE6VkM"
 leden: ["has", "bdu"]
 image: "posters/rebel.jpg"
 draft: false
+letterboxd_id: wdW6
 ---
 
 ##### 12/11/2022 21:10

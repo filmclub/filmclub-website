@@ -7,6 +7,7 @@ trailer: "8dxh3lwdOFw"
 leden: ["bdu"]
 image: "posters/citizen-kane.jpg"
 draft: false
+letterboxd_id: 71O
 ---
 
 ##### 30/12/2024 19:00

@@ -7,6 +7,7 @@ trailer: "9FXCSXuGTF4"
 leden: ["ewa", "bdu"]
 image: "posters/asteroid-city.jpg"
 draft: false
+letterboxd_id: s3ds
 ---
 
 ##### 24/07/2023 20:00

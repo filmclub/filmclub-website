@@ -7,6 +7,7 @@ trailer: "XUMQvW25rkM"
 leden: ["ewa", "gam", "jva", "bdu"]
 image: "posters/the-substance.jpg"
 draft: false
+letterboxd_id: zanS
 ---
 
 ##### 19/11/2024 21:10

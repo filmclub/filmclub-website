@@ -7,6 +7,7 @@ trailer: "XIizh6nYnTU"
 leden: ["bdu"] 
 image: "posters/synecdoche-new-york.jpg"
 draft: false
+letterboxd_id: 23zw
 ---
 
 ##### 20/10/2021 21:15

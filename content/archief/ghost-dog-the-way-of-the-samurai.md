@@ -7,6 +7,7 @@ trailer: "uLHeMzjQ29E"
 leden: ["bdu"]
 image: "posters/ghost-dog-the-way-of-the-samurai.jpg"
 draft: false
+letterboxd_id: 23Ne
 ---
 
 ##### 28/08/2023 21:25

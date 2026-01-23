@@ -7,6 +7,7 @@ trailer: "6cVi0gwobeg"
 leden: ["bdu"]
 image: "posters/nelly-nadine.jpg"
 draft: false
+letterboxd_id: yvis
 ---
 
 ##### 20/10/2022 11:30

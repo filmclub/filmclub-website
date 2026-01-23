@@ -7,6 +7,7 @@ trailer: "tC4MKxIBjHc"
 leden: ["bdu"]
 image: "posters/michel-vay.jpg"
 draft: false
+letterboxd_id: ITq6
 ---
 
 ##### 31/05/2024 22:00

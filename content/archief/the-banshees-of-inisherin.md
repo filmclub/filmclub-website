@@ -7,6 +7,7 @@ trailer: "QViYRrGJB8g"
 leden: ["bdu"]
 image: "posters/the-banshees-of-inisherin.jpg"
 draft: false
+letterboxd_id: p7XS
 ---
 
 ##### 18/01/2023 21:15

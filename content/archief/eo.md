@@ -7,6 +7,7 @@ trailer: "cNodDgOHq78"
 leden: ["ewa", "bdu"]
 image: "posters/eo.jpg"
 draft: false
+letterboxd_id: txhc
 ---
 
 ##### 24/11/2022 21:10

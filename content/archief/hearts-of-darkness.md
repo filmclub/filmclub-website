@@ -7,6 +7,7 @@ trailer: "hlyx_lPtcgQ"
 leden: ["bdu"]
 image: "posters/hearts-of-darkness.jpg"
 draft: false
+letterboxd_id: 24ai
 ---
 
 ##### 31/03/2025 21:00

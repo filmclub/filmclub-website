@@ -7,6 +7,7 @@ trailer: "8g18jFHCLXk"
 leden: ["ewa", "bdu"] 
 image: "posters/dune.jpg"
 draft: false
+letterboxd_id: fA7G
 ---
 
 ##### 05/10/2021 20:45

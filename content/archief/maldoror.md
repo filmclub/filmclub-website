@@ -7,6 +7,7 @@ trailer: "7Y0MgGzuJk4"
 leden: ["bdu"]
 image: "posters/maldoror.jpg"
 draft: false
+letterboxd_id: AeCu
 ---
 
 ##### 04/02/2025 20:30

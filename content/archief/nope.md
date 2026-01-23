@@ -7,6 +7,7 @@ trailer: "HUgmq_8PlRY"
 leden: ["has", "nam", "bdu"]
 image: "posters/nope.jpg"
 draft: false
+letterboxd_id: sDCe
 ---
 
 ##### 22/08/2022 19:15

@@ -7,6 +7,7 @@ trailer: "hc0sJmASoa4"
 leden: ["bdu"]
 image: "posters/lonely-are-the-brave.jpg"
 draft: false
+letterboxd_id: VxK
 ---
 
 ##### 03/10/2024 19:00

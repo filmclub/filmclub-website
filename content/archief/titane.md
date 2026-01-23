@@ -7,6 +7,7 @@ trailer: "Q5_w2W5G9OM"
 leden: ["bdu"] 
 image: "posters/titane.jpg"
 draft: false
+letterboxd_id: nlQC
 ---
 
 ##### 10/09/2021 21:30

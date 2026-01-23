@@ -7,6 +7,7 @@ trailer: "I1kUNRGecwg"
 leden: ["bdu"]
 image: "posters/resurrection.jpg"
 draft: false
+letterboxd_id: x9DG
 ---
 
 ##### 20/12/2025 18:00

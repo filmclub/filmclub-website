@@ -7,6 +7,7 @@ trailer: "TZMAAYy7GQY"
 leden: ["bdu"]
 image: "posters/bad-luck-banging-or-loony-porn.jpg"
 draft: false
+letterboxd_id: tJOM
 ---
 
 ##### 13/01/2022 21:30

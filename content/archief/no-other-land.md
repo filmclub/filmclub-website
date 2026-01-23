@@ -7,6 +7,7 @@ trailer: "yt1ZQIMEhnE"
 leden: ["bdu"]
 image: "posters/no-other-land.jpg"
 draft: false
+letterboxd_id: KOTG
 ---
 
 ##### 19/12/2024 21:20

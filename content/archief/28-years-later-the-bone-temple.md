@@ -7,6 +7,7 @@ trailer: "EOwTdTZA8D8"
 leden: ["bdu"]
 image: "posters/28-years-later-the-bone-temple.jpg"
 draft: false
+letterboxd_id: MwlA
 ---
 
 ##### 18/01/2026 21:00

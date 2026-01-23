@@ -7,6 +7,7 @@ trailer: "qHZ4j5n14xQ"
 leden: ["bdu"]
 image: "posters/apple-cider-vinegar.jpg"
 draft: false
+letterboxd_id: Kk9o
 ---
 
 ##### 22/05/2024 21:00

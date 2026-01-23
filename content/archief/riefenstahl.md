@@ -7,6 +7,7 @@ trailer: "VsZCGQytuZI"
 leden: ["jva", "bdu"]
 image: "posters/riefenstahl.jpg"
 draft: false
+letterboxd_id: ETau
 ---
 
 ##### 12/02/2025 21:15

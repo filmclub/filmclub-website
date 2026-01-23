@@ -7,6 +7,7 @@ trailer: "58t448USwFc"
 leden: ["bdu"]
 image: "posters/megalopolis.jpg"
 draft: false
+letterboxd_id: lPBS
 ---
 
 ##### 11/01/2025 21:00

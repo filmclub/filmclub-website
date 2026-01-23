@@ -7,6 +7,7 @@ trailer: "mxAboAOZt2I"
 leden: ["bdu"]
 image: "posters/bugonia.jpg"
 draft: false
+letterboxd_id: qeWY
 ---
 
 ##### 06/11/2025 21:20

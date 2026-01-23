@@ -7,6 +7,7 @@ trailer: "ZDtKfdcGz80"
 leden: ["bdu"]
 image: "posters/the-last-viking.jpg"
 draft: false
+letterboxd_id: NqyK
 ---
 
 ##### 02/01/2026 21:00

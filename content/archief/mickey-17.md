@@ -7,6 +7,7 @@ trailer: "xp8SUjItMRE"
 leden: ["bdu"]
 image: "posters/mickey-17.jpg"
 draft: false
+letterboxd_id: q1Dk
 ---
 
 ##### 20/03/2025 21:20

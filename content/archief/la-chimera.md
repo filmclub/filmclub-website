@@ -7,6 +7,7 @@ trailer: "OWTtrHrwcNM"
 leden: ["bdu"]
 image: "posters/la-chimera.jpg"
 draft: false
+letterboxd_id: vzVi
 ---
 
 ##### 29/04/2024 21:00

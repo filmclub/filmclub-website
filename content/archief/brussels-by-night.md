@@ -7,6 +7,7 @@ trailer: "2CRorB0KxuM"
 leden: ["bdu"]
 image: "posters/brussels-by-night.jpg"
 draft: false
+letterboxd_id: 4vf4
 ---
 
 ##### 25/04/2024 19:00

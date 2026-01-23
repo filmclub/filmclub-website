@@ -7,6 +7,7 @@ trailer: "whldChqCsYk"
 leden: ["bdu"]
 image: "posters/the-handmaiden.jpg"
 draft: false
+letterboxd_id: 948A
 ---
 
 ##### 31/10/2023 21:00

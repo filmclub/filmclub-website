@@ -7,6 +7,7 @@ trailer: "OzY2r2JXsDM"
 leden: ["gam", "bdu"]
 image: "posters/alien-romulus.jpg"
 draft: false
+letterboxd_id: zGqO
 ---
 
 ##### 09/09/2024 21:20

@@ -7,6 +7,7 @@ trailer: "rCiTHgUHvmU"
 leden: ["bdu"]
 image: "posters/all-the-beauty-and-the-bloodshed.jpg"
 draft: false
+letterboxd_id: BYjU
 ---
 
 ##### 23/08/2023 14:00

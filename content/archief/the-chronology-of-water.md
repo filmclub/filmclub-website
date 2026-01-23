@@ -7,6 +7,7 @@ trailer: "YVwSJSHenMY"
 leden: ["bdu"]
 image: "posters/the-chronology-of-water.jpg"
 draft: false
+letterboxd_id: j3pq
 ---
 
 ##### 22/01/2026 21:30

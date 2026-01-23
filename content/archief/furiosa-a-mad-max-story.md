@@ -7,6 +7,7 @@ trailer: "XJMuhwVlca4"
 leden: ["jva", "bdu"]
 image: "posters/furiosa-a-mad-max-story.jpg"
 draft: false
+letterboxd_id: tABk
 ---
 
 ##### 21/05/2024 20:00

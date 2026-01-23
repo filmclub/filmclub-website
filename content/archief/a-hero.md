@@ -7,6 +7,7 @@ trailer: "zAJ6_lmr_HQ"
 leden: ["bdu"]
 image: "posters/a-hero.jpg"
 draft: false
+letterboxd_id: p2zw
 ---
 
 ##### 28/12/2021 21:20
