@@ -7,6 +7,7 @@ trailer: "I18vFTaFmpo"
 leden: ["ewa", "nam", "bdu"] 
 image: "posters/mandibules.jpg"
 draft: false
+letterboxd_id: nHDK
 ---
 
 ##### 03/07/2021 21:15

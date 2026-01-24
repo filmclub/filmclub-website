@@ -7,6 +7,7 @@ trailer: "WuClROtJCaw"
 leden: ["has", "kbo", "sde"] 
 image: "posters/drunk.jpg"
 draft: false
+letterboxd_id: lkba
 ---
 
 ##### 18/08/2021 21:10

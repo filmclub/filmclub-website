@@ -7,6 +7,7 @@ trailer: "giXco2jaZ_4"
 leden: ["has"]
 image: "posters/top-gun-maverick.jpg"
 draft: false
+letterboxd_id: cjr4
 ---
 
 ##### 26/06/2022 16:30

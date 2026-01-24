@@ -7,6 +7,7 @@ trailer: "g91mQYPzkRU"
 leden: ["bdu"]
 image: "posters/sirat.jpg"
 draft: false
+letterboxd_id: HxJo
 ---
 
 ##### 06/10/2025 21:10

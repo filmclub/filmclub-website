@@ -7,6 +7,7 @@ trailer: "nNG0sxoUj_A"
 leden: ["nam", "bdu"]
 image: "posters/augure.jpg"
 draft: false
+letterboxd_id: xAPO
 ---
 
 ##### 17/11/2023 19:00

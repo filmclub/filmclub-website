@@ -7,6 +7,7 @@ trailer: ""
 leden: ["ewa", "bdu"]
 image: "posters/de-schaduwwerkers.jpg"
 draft: false
+letterboxd_id: xiuy
 ---
 
 ##### 02/06/2022 20:00

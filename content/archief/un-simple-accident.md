@@ -7,6 +7,7 @@ trailer: "1SwrCRGS604"
 leden: ["gam", "bdu"]
 image: "posters/un-simple-accident.jpg"
 draft: false
+letterboxd_id: TX2k
 ---
 
 ##### 09/10/2025 21:30

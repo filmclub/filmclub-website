@@ -7,6 +7,7 @@ trailer: "4vomBbFSs8g"
 leden: ["bdu", "has"]
 image: "posters/anatomie-d-une-chute.jpg"
 draft: false
+letterboxd_id: yuDE
 ---
 
 ##### 29/09/2023 20:20

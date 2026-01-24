@@ -7,6 +7,7 @@ trailer: "_gK0ZXzSVj0"
 leden: ["bdu"]
 image: "posters/soundtrack-to-a-coup-d-etat.jpg"
 draft: false
+letterboxd_id: K5gk
 ---
 
 ##### 17/09/2024 21:10

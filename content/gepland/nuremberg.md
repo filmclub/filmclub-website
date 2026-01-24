@@ -7,6 +7,7 @@ trailer: "537tJp06En0"
 leden: []
 image: "posters/nuremberg.jpg"
 draft: false
+letterboxd_id: K6qU
 ---
 
 ##### Release 28/01/2026

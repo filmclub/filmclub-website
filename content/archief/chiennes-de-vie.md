@@ -7,6 +7,7 @@ trailer: "sIz-K_GneeA"
 leden: ["bdu"]
 image: "posters/chiennes-de-vie.jpg"
 draft: false
+letterboxd_id: BoIk
 ---
 
 ##### 06/03/2024 21:30

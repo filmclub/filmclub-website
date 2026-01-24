@@ -7,6 +7,7 @@ trailer: "AWokrf6yeEU"
 leden: []
 image: "posters/the-mastermind.jpg"
 draft: false
+letterboxd_id: Q7ge
 ---
 
 ##### Release 18/02/2026

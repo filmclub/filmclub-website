@@ -7,6 +7,7 @@ trailer: "TcPk2p0Zaw4"
 leden: ["ewa", "bdu"] 
 image: "posters/the-french-dispatch.jpg"
 draft: false
+letterboxd_id: jLP8
 ---
 
 ##### 13/11/2021 21:40

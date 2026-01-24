@@ -7,6 +7,7 @@ trailer: "h1NIKaYs0R8"
 leden: ["ewa", "bdu"] 
 image: "posters/les-baronnes.jpg"
 draft: false
+letterboxd_id: LP9m
 ---
 
 ##### 04/12/2025 18:55

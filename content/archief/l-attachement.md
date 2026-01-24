@@ -7,6 +7,7 @@ trailer: "NxVtP6FQqDg"
 leden: ["bdu"]
 image: "posters/l-attachement.jpg"
 draft: false
+letterboxd_id: Fuoo
 ---
 
 ##### 13/03/2025 19:15

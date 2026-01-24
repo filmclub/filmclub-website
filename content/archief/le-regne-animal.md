@@ -7,6 +7,7 @@ trailer: "K1pfR_IC7pU"
 leden: ["bdu"]
 image: "posters/le-regne-animal.jpg"
 draft: false
+letterboxd_id: zzJk
 ---
 
 ##### 20/10/2023 21:10

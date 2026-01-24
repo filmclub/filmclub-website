@@ -7,6 +7,7 @@ trailer: "61VxkQiPAco"
 leden: ["bdu"]
 image: "posters/vincent-doit-mourir.jpg"
 draft: false
+letterboxd_id: Atvo
 ---
 
 ##### 13/12/2023 21:15

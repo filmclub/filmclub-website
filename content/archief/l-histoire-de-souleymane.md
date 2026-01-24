@@ -7,6 +7,7 @@ trailer: "JQIbqwkx5ps"
 leden: ["bdu"]
 image: "posters/l-histoire-de-souleymane.jpg"
 draft: false
+letterboxd_id: HQVy
 ---
 
 ##### 07/01/2025 21:10

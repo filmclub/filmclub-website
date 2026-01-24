@@ -4,13 +4,14 @@ title: "The Chronology of Water"
 date: 2026-01-22T21:30:00+02:00
 publishdate: 2026-01-05T02:14:26+02:00
 trailer: "YVwSJSHenMY"
-leden: ["bdu"]
+leden: ["bdu", "ewa"]
 image: "posters/the-chronology-of-water.jpg"
 draft: false
 letterboxd_id: j3pq
 ---
 
 ##### 22/01/2026 21:30
+##### 23/01/2026 18:30
 
 [Cinema Palace](https://cinema-palace.be/nl/film/chronology-water)
 

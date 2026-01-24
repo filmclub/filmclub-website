@@ -7,6 +7,7 @@ trailer: "wMGSr6OYN0g"
 leden: ["ewa"]
 image: "posters/l-adolescente.jpg"
 draft: false
+letterboxd_id: 6H4c
 ---
 
 ##### 21/02/2023 20:00

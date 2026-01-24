@@ -7,6 +7,7 @@ trailer: "NDQ3tUyMSSo"
 leden: ["bdu"]
 image: "posters/le-deuxieme-acte.jpg"
 draft: false
+letterboxd_id: HW9q
 ---
 
 ##### 28/05/2024 21:30

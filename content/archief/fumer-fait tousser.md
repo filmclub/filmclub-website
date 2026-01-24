@@ -7,6 +7,7 @@ trailer: "pC9uHlEHnRo"
 leden: ["nam", "bdu"]
 image: "posters/fumer-fait-tousser.jpg"
 draft: false
+letterboxd_id: wVl4
 ---
 
 ##### 23/12/2022 13:45

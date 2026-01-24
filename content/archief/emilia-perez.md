@@ -7,6 +7,7 @@ trailer: "Aj8pWdm6ZCE"
 leden: ["bdu"]
 image: "posters/emilia-perez.jpg"
 draft: false
+letterboxd_id: AP3G
 ---
 
 ##### 19/09/2024 21:00
