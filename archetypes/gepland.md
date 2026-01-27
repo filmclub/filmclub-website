@@ -7,6 +7,7 @@ trailer: ""
 leden: [] 
 image: "posters/{{ .Name }}.jpg"
 draft: false
+letterboxd_id: 
 ---
 
 ##### 01/01/2020 21:00
