@@ -4,7 +4,7 @@ title: "La Grazia"
 date: 2026-01-29T21:15:00+01:00
 publishdate: 2026-01-25T16:34:52+01:00
 trailer: "zvQn44a_IHo"
-leden: [] 
+leden: ["bdu"]
 image: "posters/la-grazia.jpg"
 draft: false
 letterboxd_id: RLHm
