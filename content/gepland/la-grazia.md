@@ -1,7 +1,7 @@
 ---
 number: 192
 title: "La Grazia"
-date: 2026-01-26T21:15:00+01:00
+date: 2026-01-29T21:15:00+01:00
 publishdate: 2026-01-25T16:34:52+01:00
 trailer: "zvQn44a_IHo"
 leden: [] 
@@ -10,7 +10,7 @@ draft: false
 letterboxd_id: RLHm
 ---
 
-##### TBD
+##### 29/01/2026 21:15
 
 [Cinema Palace](https://cinema-palace.be/nl/film/la-grazia)
 
